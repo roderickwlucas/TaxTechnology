@@ -1,0 +1,1310 @@
+name;sex;age;social_class;siblings;parents_alive;annual_income;housenumber;browser_used;city;fraud
+Allen, Miss. Elisabeth Walton;female;29.0;1;0;0;2113375.0;228;Chrome;St Louis, MO;No
+Allison, Master. Hudson Trevor;male;0.9167;1;1;2;1515500.0;25;Chrome;Montreal, PQ / Chesterville, ON;No
+Allison, Miss. Helen Loraine;female;2.0;1;1;2;1515500.0;102;Chrome;Montreal, PQ / Chesterville, ON;Yes
+Allison, Mr. Hudson Joshua Creighton;male;30.0;1;1;2;1515500.0;112;Chrome;Montreal, PQ / Chesterville, ON;Yes
+Allison, Mrs. Hudson J C (Bessie Waldo Daniels);female;25.0;1;1;2;1515500.0;232;Chrome;Montreal, PQ / Chesterville, ON;Yes
+Anderson, Mr. Harry;male;48.0;1;0;0;265500.0;223;Chrome;New York, NY;No
+Andrews, Miss. Kornelia Theodosia;female;63.0;1;1;0;779583.0;1;Chrome;Hudson, NY;No
+Andrews, Mr. Thomas Jr;male;39.0;1;0;0;0.0;194;Chrome;Belfast, NI;Yes
+Appleton, Mrs. Edward Dale (Charlotte Lamson);female;53.0;1;2;0;514792.0;150;Chrome;Bayside, Queens, NY;No
+Artagaveytia, Mr. Ramon;male;71.0;1;0;0;495042.0;162;Internet Explorer;Montevideo, Uruguay;Yes
+Astor, Col. John Jacob;male;47.0;1;1;0;2275250.0;143;Internet Explorer;New York, NY;Yes
+Astor, Mrs. John Jacob (Madeleine Talmadge Force);female;18.0;1;1;0;2275250.0;250;Internet Explorer;New York, NY;No
+Aubart, Mme. Leontine Pauline;female;24.0;1;0;0;693000.0;183;Internet Explorer;Paris, France;No
+"Barber, Miss. Ellen ""Nellie""";female;26.0;1;0;0;788500.0;24;Chrome;;No
+Barkworth, Mr. Algernon Henry Wilson;male;80.0;1;0;0;300000.0;74;Chrome;Hessle, Yorks;No
+Baumann, Mr. John D;male;;1;0;0;259250.0;87;Chrome;New York, NY;Yes
+Baxter, Mr. Quigg Edmond;male;24.0;1;0;1;2475208.0;26;Internet Explorer;Montreal, PQ;Yes
+Baxter, Mrs. James (Helene DeLaudeniere Chaput);female;50.0;1;0;1;2475208.0;86;Internet Explorer;Montreal, PQ;No
+Bazzani, Miss. Albina;female;32.0;1;0;0;762917.0;75;Internet Explorer;;No
+Beattie, Mr. Thomson;male;36.0;1;0;0;752417.0;245;Internet Explorer;Winnipeg, MN;Yes
+Beckwith, Mr. Richard Leonard;male;37.0;1;1;1;525542.0;115;Chrome;New York, NY;No
+Beckwith, Mrs. Richard Leonard (Sallie Monypeny);female;47.0;1;1;1;525542.0;80;Chrome;New York, NY;No
+Behr, Mr. Karl Howell;male;26.0;1;0;0;300000.0;96;Internet Explorer;New York, NY;No
+Bidois, Miss. Rosalie;female;42.0;1;0;0;2275250.0;137;Internet Explorer;;No
+Bird, Miss. Ellen;female;29.0;1;0;0;2217792.0;224;Chrome;;No
+Birnbaum, Mr. Jakob;male;25.0;1;0;0;260000.0;89;Internet Explorer;San Francisco, CA;Yes
+Bishop, Mr. Dickinson H;male;25.0;1;1;0;910792.0;176;Internet Explorer;Dowagiac, MI;No
+Bishop, Mrs. Dickinson H (Helen Walton);female;19.0;1;1;0;910792.0;28;Internet Explorer;Dowagiac, MI;No
+Bissette, Miss. Amelia;female;35.0;1;0;0;1356333.0;106;Chrome;;No
+Bjornstrom-Steffansson, Mr. Mauritz Hakan;male;28.0;1;0;0;265500.0;240;Chrome;Stockholm, Sweden / Washington, DC;No
+Blackwell, Mr. Stephen Weart;male;45.0;1;0;0;355000.0;35;Chrome;Trenton, NJ;Yes
+Blank, Mr. Henry;male;40.0;1;0;0;310000.0;123;Internet Explorer;Glen Ridge, NJ;No
+Bonnell, Miss. Caroline;female;30.0;1;0;0;1648667.0;19;Chrome;Youngstown, OH;No
+Bonnell, Miss. Elizabeth;female;58.0;1;0;0;265500.0;225;Chrome;Birkdale, England Cleveland, Ohio;No
+Borebank, Mr. John James;male;42.0;1;0;0;265500.0;252;Chrome;London / Winnipeg, MB;Yes
+Bowen, Miss. Grace Scott;female;45.0;1;0;0;2623750.0;39;Internet Explorer;Cooperstown, NY;No
+Bowerman, Miss. Elsie Edith;female;22.0;1;0;1;550000.0;206;Chrome;St Leonards-on-Sea, England Ohio;No
+"Bradley, Mr. George (""George Arthur Brayton"")";male;;1;0;0;265500.0;41;Chrome;Los Angeles, CA;No
+Brady, Mr. John Bertram;male;41.0;1;0;0;305000.0;100;Chrome;Pomeroy, WA;Yes
+Brandeis, Mr. Emil;male;48.0;1;0;0;504958.0;57;Internet Explorer;Omaha, NE;Yes
+Brewe, Dr. Arthur Jackson;male;;1;0;0;396000.0;28;Internet Explorer;Philadelphia, PA;Yes
+Brown, Mrs. James Joseph (Margaret Tobin);female;44.0;1;0;0;277208.0;49;Internet Explorer;Denver, CO;No
+Brown, Mrs. John Murray (Caroline Lane Lamson);female;59.0;1;2;0;514792.0;10;Chrome;Belmont, MA;No
+Bucknell, Mrs. William Robert (Emma Eliza Ward);female;60.0;1;0;0;762917.0;168;Internet Explorer;Philadelphia, PA;No
+Burns, Miss. Elizabeth Margaret;female;41.0;1;0;0;1345000.0;135;Internet Explorer;;No
+Butt, Major. Archibald Willingham;male;45.0;1;0;0;265500.0;76;Chrome;Washington, DC;Yes
+Cairns, Mr. Alexander;male;;1;0;0;310000.0;211;Chrome;;Yes
+Calderhead, Mr. Edward Pennington;male;42.0;1;0;0;262875.0;106;Chrome;New York, NY;No
+Candee, Mrs. Edward (Helen Churchill Hungerford);female;53.0;1;0;0;274458.0;68;Internet Explorer;Washington, DC;No
+Cardeza, Mr. Thomas Drake Martinez;male;36.0;1;0;1;5123292.0;88;Internet Explorer;Austria-Hungary / Germantown, Philadelphia, PA;No
+Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake);female;58.0;1;0;1;5123292.0;76;Internet Explorer;Germantown, Philadelphia, PA;No
+Carlsson, Mr. Frans Olof;male;33.0;1;0;0;50000.0;182;Chrome;New York, NY;Yes
+Carrau, Mr. Francisco M;male;28.0;1;0;0;471000.0;39;Chrome;Montevideo, Uruguay;Yes
+Carrau, Mr. Jose Pedro;male;17.0;1;0;0;471000.0;203;Chrome;Montevideo, Uruguay;Yes
+Carter, Master. William Thornton II;male;11.0;1;1;2;1200000.0;18;Chrome;Bryn Mawr, PA;No
+Carter, Miss. Lucile Polk;female;14.0;1;1;2;1200000.0;237;Chrome;Bryn Mawr, PA;No
+Carter, Mr. William Ernest;male;36.0;1;1;2;1200000.0;201;Chrome;Bryn Mawr, PA;No
+Carter, Mrs. William Ernest (Lucile Polk);female;36.0;1;1;2;1200000.0;105;Chrome;Bryn Mawr, PA;No
+Case, Mr. Howard Brown;male;49.0;1;0;0;260000.0;30;Chrome;Ascot, Berkshire / Rochester, NY;Yes
+Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick);female;;1;0;0;277208.0;220;Internet Explorer;New York, NY;No
+Cavendish, Mr. Tyrell William;male;36.0;1;1;0;788500.0;79;Chrome;Little Onn Hall, Staffs;Yes
+Cavendish, Mrs. Tyrell William (Julia Florence Siegel);female;76.0;1;1;0;788500.0;96;Chrome;Little Onn Hall, Staffs;No
+Chaffee, Mr. Herbert Fuller;male;46.0;1;1;0;611750.0;131;Chrome;Amenia, ND;Yes
+Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood);female;47.0;1;1;0;611750.0;149;Chrome;Amenia, ND;No
+Chambers, Mr. Norman Campbell;male;27.0;1;1;0;531000.0;116;Chrome;New York, NY / Ithaca, NY;No
+Chambers, Mrs. Norman Campbell (Bertha Griggs);female;33.0;1;1;0;531000.0;94;Chrome;New York, NY / Ithaca, NY;No
+Chaudanson, Miss. Victorine;female;36.0;1;0;0;2623750.0;16;Internet Explorer;;No
+Cherry, Miss. Gladys;female;30.0;1;0;0;865000.0;25;Chrome;London, England;No
+Chevre, Mr. Paul Romaine;male;45.0;1;0;0;297000.0;106;Internet Explorer;Paris, France;No
+Chibnall, Mrs. (Edith Martha Bowerman);female;;1;0;1;550000.0;239;Chrome;St Leonards-on-Sea, England Ohio;No
+Chisholm, Mr. Roderick Robert Crispin;male;;1;0;0;0.0;250;Chrome;Liverpool, England / Belfast;Yes
+Clark, Mr. Walter Miller;male;27.0;1;1;0;1367792.0;234;Internet Explorer;Los Angeles, CA;Yes
+Clark, Mrs. Walter Miller (Virginia McDowell);female;26.0;1;1;0;1367792.0;105;Internet Explorer;Los Angeles, CA;No
+Cleaver, Miss. Alice;female;22.0;1;0;0;1515500.0;41;Chrome;;No
+Clifford, Mr. George Quincy;male;;1;0;0;520000.0;250;Chrome;Stoughton, MA;Yes
+Colley, Mr. Edward Pomeroy;male;47.0;1;0;0;255875.0;210;Chrome;Victoria, BC;Yes
+Compton, Miss. Sara Rebecca;female;39.0;1;1;1;831583.0;233;Internet Explorer;Lakewood, NJ;No
+Compton, Mr. Alexander Taylor Jr;male;37.0;1;1;1;831583.0;102;Internet Explorer;Lakewood, NJ;Yes
+Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll);female;64.0;1;0;2;831583.0;211;Internet Explorer;Lakewood, NJ;No
+Cornell, Mrs. Robert Clifford (Malvina Helen Lamson);female;55.0;1;2;0;257000.0;151;Chrome;New York, NY;No
+Crafton, Mr. John Bertram;male;;1;0;0;265500.0;144;Chrome;Roachdale, IN;Yes
+Crosby, Capt. Edward Gifford;male;70.0;1;1;1;710000.0;14;Chrome;Milwaukee, WI;Yes
+Crosby, Miss. Harriet R;female;36.0;1;0;2;710000.0;3;Chrome;Milwaukee, WI;No
+Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead);female;64.0;1;1;1;265500.0;166;Chrome;Milwaukee, WI;No
+Cumings, Mr. John Bradley;male;39.0;1;1;0;712833.0;189;Internet Explorer;New York, NY;Yes
+Cumings, Mrs. John Bradley (Florence Briggs Thayer);female;38.0;1;1;0;712833.0;82;Internet Explorer;New York, NY;No
+Daly, Mr. Peter Denis ;male;51.0;1;0;0;265500.0;127;Chrome;Lima, Peru;No
+Daniel, Mr. Robert Williams;male;27.0;1;0;0;305000.0;98;Chrome;Philadelphia, PA;No
+Daniels, Miss. Sarah;female;33.0;1;0;0;1515500.0;135;Chrome;;No
+Davidson, Mr. Thornton;male;31.0;1;1;0;520000.0;55;Chrome;Montreal, PQ;Yes
+Davidson, Mrs. Thornton (Orian Hays);female;27.0;1;1;2;520000.0;61;Chrome;Montreal, PQ;No
+Dick, Mr. Albert Adrian;male;31.0;1;1;0;570000.0;184;Chrome;Calgary, AB;No
+Dick, Mrs. Albert Adrian (Vera Gillespie);female;17.0;1;1;0;570000.0;199;Chrome;Calgary, AB;No
+Dodge, Dr. Washington;male;53.0;1;1;1;818583.0;182;Chrome;San Francisco, CA;No
+Dodge, Master. Washington;male;4.0;1;0;2;818583.0;75;Chrome;San Francisco, CA;No
+Dodge, Mrs. Washington (Ruth Vidaver);female;54.0;1;1;1;818583.0;197;Chrome;San Francisco, CA;No
+Douglas, Mr. Walter Donald;male;50.0;1;1;0;1064250.0;128;Internet Explorer;Deephaven, MN / Cedar Rapids, IA;Yes
+Douglas, Mrs. Frederick Charles (Mary Helene Baxter);female;27.0;1;1;1;2475208.0;247;Internet Explorer;Montreal, PQ;No
+Douglas, Mrs. Walter Donald (Mahala Dutton);female;48.0;1;1;0;1064250.0;153;Internet Explorer;Deephaven, MN / Cedar Rapids, IA;No
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")";female;48.0;1;1;0;396000.0;76;Internet Explorer;London / Paris;No
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")";male;49.0;1;1;0;569292.0;232;Internet Explorer;London / Paris;No
+Dulles, Mr. William Crothers;male;39.0;1;0;0;297000.0;229;Internet Explorer;Philadelphia, PA;Yes
+Earnshaw, Mrs. Boulton (Olive Potter);female;23.0;1;0;1;831583.0;102;Internet Explorer;Mt Airy, Philadelphia, PA;No
+Endres, Miss. Caroline Louise;female;38.0;1;0;0;2275250.0;144;Internet Explorer;New York, NY;No
+Eustis, Miss. Elizabeth Mussey;female;54.0;1;1;0;782667.0;22;Internet Explorer;Brookline, MA;No
+Evans, Miss. Edith Corse;female;36.0;1;0;0;316792.0;126;Internet Explorer;New York, NY;Yes
+Farthing, Mr. John;male;;1;0;0;2217792.0;90;Chrome;;Yes
+Flegenheim, Mrs. Alfred (Antoinette);female;;1;0;0;316833.0;94;Chrome;New York, NY;No
+Fleming, Miss. Margaret;female;;1;0;0;1108833.0;98;Internet Explorer;;No
+"Flynn, Mr. John Irwin (""Irving"")";male;36.0;1;0;0;263875.0;230;Chrome;Brooklyn, NY;No
+Foreman, Mr. Benjamin Laventall;male;30.0;1;0;0;277500.0;46;Internet Explorer;New York, NY;Yes
+Fortune, Miss. Alice Elizabeth;female;24.0;1;3;2;2630000.0;59;Chrome;Winnipeg, MB;No
+Fortune, Miss. Ethel Flora;female;28.0;1;3;2;2630000.0;162;Chrome;Winnipeg, MB;No
+Fortune, Miss. Mabel Helen;female;23.0;1;3;2;2630000.0;12;Chrome;Winnipeg, MB;No
+Fortune, Mr. Charles Alexander;male;19.0;1;3;2;2630000.0;60;Chrome;Winnipeg, MB;Yes
+Fortune, Mr. Mark;male;64.0;1;1;4;2630000.0;37;Chrome;Winnipeg, MB;Yes
+Fortune, Mrs. Mark (Mary McDougald);female;60.0;1;1;4;2630000.0;19;Chrome;Winnipeg, MB;No
+Francatelli, Miss. Laura Mabel;female;30.0;1;0;0;569292.0;215;Internet Explorer;;No
+Franklin, Mr. Thomas Parham;male;;1;0;0;265500.0;22;Chrome;Westcliff-on-Sea, Essex;Yes
+Frauenthal, Dr. Henry William;male;50.0;1;2;0;1336500.0;47;Chrome;New York, NY;No
+Frauenthal, Mr. Isaac Gerald;male;43.0;1;1;0;277208.0;122;Internet Explorer;New York, NY;No
+Frauenthal, Mrs. Henry William (Clara Heinsheimer);female;;1;1;0;1336500.0;256;Chrome;New York, NY;No
+Frolicher, Miss. Hedwig Margaritha;female;22.0;1;0;2;495000.0;101;Internet Explorer;Zurich, Switzerland;No
+Frolicher-Stehli, Mr. Maxmillian;male;60.0;1;1;1;792000.0;253;Internet Explorer;Zurich, Switzerland;No
+Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli);female;48.0;1;1;1;792000.0;104;Internet Explorer;Zurich, Switzerland;No
+Fry, Mr. Richard;male;;1;0;0;0.0;134;Chrome;;Yes
+Futrelle, Mr. Jacques Heath;male;37.0;1;1;0;531000.0;215;Chrome;Scituate, MA;Yes
+Futrelle, Mrs. Jacques Heath (Lily May Peel);female;35.0;1;1;0;531000.0;20;Chrome;Scituate, MA;No
+Gee, Mr. Arthur H;male;47.0;1;0;0;385000.0;33;Chrome;St Anne's-on-Sea, Lancashire;Yes
+Geiger, Miss. Amalie;female;35.0;1;0;0;2115000.0;99;Internet Explorer;;No
+Gibson, Miss. Dorothy Winifred;female;22.0;1;0;1;594000.0;225;Internet Explorer;New York, NY;No
+Gibson, Mrs. Leonard (Pauline C Boeson);female;45.0;1;0;1;594000.0;37;Internet Explorer;New York, NY;No
+Giglio, Mr. Victor;male;24.0;1;0;0;792000.0;151;Internet Explorer;;Yes
+Goldenberg, Mr. Samuel L;male;49.0;1;1;0;891042.0;177;Internet Explorer;Paris, France / New York, NY;No
+Goldenberg, Mrs. Samuel L (Edwiga Grabowska);female;;1;1;0;891042.0;24;Internet Explorer;Paris, France / New York, NY;No
+Goldschmidt, Mr. George B;male;71.0;1;0;0;346542.0;15;Internet Explorer;New York, NY;Yes
+Gracie, Col. Archibald IV;male;53.0;1;0;0;285000.0;223;Internet Explorer;Washington, DC;No
+Graham, Miss. Margaret Edith;female;19.0;1;0;0;300000.0;95;Chrome;Greenwich, CT;No
+Graham, Mr. George Edward;male;38.0;1;0;1;1534625.0;38;Chrome;Winnipeg, MB;Yes
+Graham, Mrs. William Thompson (Edith Junkins);female;58.0;1;0;1;1534625.0;103;Chrome;Greenwich, CT;No
+Greenfield, Mr. William Bertram;male;23.0;1;0;1;633583.0;3;Internet Explorer;New York, NY;No
+Greenfield, Mrs. Leo David (Blanche Strouse);female;45.0;1;0;1;633583.0;44;Internet Explorer;New York, NY;No
+Guggenheim, Mr. Benjamin;male;46.0;1;0;0;792000.0;140;Internet Explorer;New York, NY;Yes
+Harder, Mr. George Achilles;male;25.0;1;1;0;554417.0;71;Internet Explorer;Brooklyn, NY;No
+Harder, Mrs. George Achilles (Dorothy Annan);female;25.0;1;1;0;554417.0;47;Internet Explorer;Brooklyn, NY;No
+Harper, Mr. Henry Sleeper;male;48.0;1;1;0;767292.0;48;Internet Explorer;New York, NY;No
+Harper, Mrs. Henry Sleeper (Myna Haxtun);female;49.0;1;1;0;767292.0;48;Internet Explorer;New York, NY;No
+Harrington, Mr. Charles H;male;;1;0;0;424000.0;41;Chrome;;Yes
+Harris, Mr. Henry Birkhardt;male;45.0;1;1;0;834750.0;141;Chrome;New York, NY;Yes
+Harris, Mrs. Henry Birkhardt (Irene Wallach);female;35.0;1;1;0;834750.0;35;Chrome;New York, NY;No
+Harrison, Mr. William;male;40.0;1;0;0;0.0;150;Chrome;;Yes
+Hassab, Mr. Hammad;male;27.0;1;0;0;767292.0;215;Internet Explorer;;No
+Hawksford, Mr. Walter James;male;;1;0;0;300000.0;232;Chrome;Kingston, Surrey;No
+Hays, Miss. Margaret Bechstein;female;24.0;1;0;0;831583.0;119;Internet Explorer;New York, NY;No
+Hays, Mr. Charles Melville;male;55.0;1;1;1;935000.0;94;Chrome;Montreal, PQ;Yes
+Hays, Mrs. Charles Melville (Clara Jennings Gregg);female;52.0;1;1;1;935000.0;129;Chrome;Montreal, PQ;No
+Head, Mr. Christopher;male;42.0;1;0;0;425000.0;118;Chrome;London / Middlesex;Yes
+Hilliard, Mr. Herbert Henry;male;;1;0;0;518625.0;90;Chrome;Brighton, MA;Yes
+Hipkins, Mr. William Edward;male;55.0;1;0;0;500000.0;119;Chrome;London / Birmingham;Yes
+Hippach, Miss. Jean Gertrude;female;16.0;1;0;1;579792.0;192;Internet Explorer;Chicago, IL;No
+Hippach, Mrs. Louis Albert (Ida Sophia Fischer);female;44.0;1;0;1;579792.0;121;Internet Explorer;Chicago, IL;No
+Hogeboom, Mrs. John C (Anna Andrews);female;51.0;1;1;0;779583.0;188;Chrome;Hudson, NY;No
+Holverson, Mr. Alexander Oskar;male;42.0;1;1;0;520000.0;209;Chrome;New York, NY;Yes
+Holverson, Mrs. Alexander Oskar (Mary Aline Towner);female;35.0;1;1;0;520000.0;145;Chrome;New York, NY;No
+"Homer, Mr. Harry (""Mr E Haven"")";male;35.0;1;0;0;265500.0;73;Internet Explorer;Indianapolis, IN;No
+Hoyt, Mr. Frederick Maxfield;male;38.0;1;1;0;900000.0;138;Chrome;New York, NY /  Stamford CT;No
+Hoyt, Mr. William Fisher;male;;1;0;0;306958.0;106;Internet Explorer;New York, NY;Yes
+Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby);female;35.0;1;1;0;900000.0;159;Chrome;New York, NY /  Stamford CT;No
+Icard, Miss. Amelie;female;38.0;1;0;0;800000.0;20;Firefox;;No
+Isham, Miss. Ann Elizabeth;female;50.0;1;0;0;287125.0;80;Internet Explorer;Paris, France New York, NY;Yes
+Ismay, Mr. Joseph Bruce;male;49.0;1;0;0;0.0;127;Chrome;Liverpool;No
+Jones, Mr. Charles Cresson;male;46.0;1;0;0;260000.0;157;Chrome;Bennington, VT;Yes
+Julian, Mr. Henry Forbes;male;50.0;1;0;0;260000.0;96;Chrome;London;Yes
+Keeping, Mr. Edwin;male;32.5;1;0;0;2115000.0;36;Internet Explorer;;Yes
+Kent, Mr. Edward Austin;male;58.0;1;0;0;297000.0;227;Internet Explorer;Buffalo, NY;Yes
+Kenyon, Mr. Frederick R;male;41.0;1;1;0;518625.0;9;Chrome;Southington / Noank, CT;Yes
+Kenyon, Mrs. Frederick R (Marion);female;;1;1;0;518625.0;229;Chrome;Southington / Noank, CT;No
+Kimball, Mr. Edwin Nelson Jr;male;42.0;1;1;0;525542.0;75;Chrome;Boston, MA;No
+Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons);female;45.0;1;1;0;525542.0;89;Chrome;Boston, MA;No
+Klaber, Mr. Herman;male;;1;0;0;265500.0;72;Chrome;Portland, OR;Yes
+Kreuchen, Miss. Emilie;female;39.0;1;0;0;2113375.0;27;Chrome;;No
+Leader, Dr. Alice (Farnham);female;49.0;1;0;0;259292.0;174;Chrome;New York, NY;No
+LeRoy, Miss. Bertha;female;30.0;1;0;0;1064250.0;23;Internet Explorer;;No
+Lesurer, Mr. Gustave J;male;35.0;1;0;0;5123292.0;209;Internet Explorer;;No
+Lewy, Mr. Ervin G;male;;1;0;0;277208.0;18;Internet Explorer;Chicago, IL;Yes
+"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")";male;42.0;1;0;0;265500.0;103;Chrome;Stockholm, Sweden;Yes
+Lindstrom, Mrs. Carl Johan (Sigrid Posse);female;55.0;1;0;0;277208.0;94;Internet Explorer;Stockholm, Sweden;No
+Lines, Miss. Mary Conover;female;16.0;1;0;1;394000.0;198;Chrome;Paris, France;No
+Lines, Mrs. Ernest H (Elizabeth Lindsey James);female;51.0;1;0;1;394000.0;33;Chrome;Paris, France;No
+Long, Mr. Milton Clyde;male;29.0;1;0;0;300000.0;166;Chrome;Springfield, MA;Yes
+Longley, Miss. Gretchen Fiske;female;21.0;1;0;0;779583.0;50;Chrome;Hudson, NY;No
+Loring, Mr. Joseph Holland;male;30.0;1;0;0;455000.0;202;Chrome;London / New York, NY;Yes
+Lurette, Miss. Elise;female;58.0;1;0;0;1465208.0;250;Internet Explorer;;No
+Madill, Miss. Georgette Alexandra;female;15.0;1;0;1;2113375.0;86;Chrome;St Louis, MO;No
+Maguire, Mr. John Edward;male;30.0;1;0;0;260000.0;83;Chrome;Brockton, MA;Yes
+Maioni, Miss. Roberta;female;16.0;1;0;0;865000.0;217;Chrome;;No
+Marechal, Mr. Pierre;male;;1;0;0;297000.0;167;Internet Explorer;Paris, France;No
+Marvin, Mr. Daniel Warner;male;19.0;1;1;0;531000.0;121;Chrome;New York, NY;Yes
+Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson);female;18.0;1;1;0;531000.0;132;Chrome;New York, NY;No
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")";female;24.0;1;0;0;495042.0;232;Internet Explorer;Belgium  Montreal, PQ;No
+McCaffry, Mr. Thomas Francis;male;46.0;1;0;0;752417.0;252;Internet Explorer;Vancouver, BC;Yes
+McCarthy, Mr. Timothy J;male;54.0;1;0;0;518625.0;29;Chrome;Dorchester, MA;Yes
+McGough, Mr. James Robert;male;36.0;1;0;0;262875.0;221;Chrome;Philadelphia, PA;No
+Meyer, Mr. Edgar Joseph;male;28.0;1;1;0;821708.0;237;Internet Explorer;New York, NY;Yes
+Meyer, Mrs. Edgar Joseph (Leila Saks);female;;1;1;0;821708.0;180;Internet Explorer;New York, NY;No
+Millet, Mr. Francis Davis;male;65.0;1;0;0;265500.0;86;Chrome;East Bridgewater, MA;Yes
+Minahan, Dr. William Edward;male;44.0;1;2;0;900000.0;159;Firefox;Fond du Lac, WI;Yes
+Minahan, Miss. Daisy E;female;33.0;1;1;0;900000.0;78;Firefox;Green Bay, WI;No
+Minahan, Mrs. William Edward (Lillian E Thorpe);female;37.0;1;1;0;900000.0;39;Firefox;Fond du Lac, WI;No
+Mock, Mr. Philipp Edmund;male;30.0;1;1;0;577500.0;8;Internet Explorer;New York, NY;No
+Molson, Mr. Harry Markland;male;55.0;1;0;0;305000.0;236;Chrome;Montreal, PQ;Yes
+Moore, Mr. Clarence Bloomfield;male;47.0;1;0;0;424000.0;243;Chrome;Washington, DC;Yes
+Natsch, Mr. Charles H;male;37.0;1;0;1;297000.0;86;Internet Explorer;Brooklyn, NY;Yes
+Newell, Miss. Madeleine;female;31.0;1;1;0;1132750.0;255;Internet Explorer;Lexington, MA;No
+Newell, Miss. Marjorie;female;23.0;1;1;0;1132750.0;9;Internet Explorer;Lexington, MA;No
+Newell, Mr. Arthur Webster;male;58.0;1;0;2;1132750.0;66;Internet Explorer;Lexington, MA;Yes
+Newsom, Miss. Helen Monypeny;female;19.0;1;0;2;262833.0;174;Chrome;New York, NY;No
+Nicholson, Mr. Arthur Ernest;male;64.0;1;0;0;260000.0;36;Chrome;Isle of Wight, England;Yes
+Oliva y Ocana, Dona. Fermina;female;39.0;1;0;0;1089000.0;225;Internet Explorer;;No
+Omont, Mr. Alfred Fernand;male;;1;0;0;257417.0;40;Internet Explorer;Paris, France;No
+Ostby, Miss. Helene Ragnhild;female;22.0;1;0;1;619792.0;44;Internet Explorer;Providence, RI;No
+Ostby, Mr. Engelhart Cornelius;male;65.0;1;0;1;619792.0;153;Internet Explorer;Providence, RI;Yes
+Ovies y Rodriguez, Mr. Servando;male;28.5;1;0;0;277208.0;248;Internet Explorer;?Havana, Cuba;Yes
+Parr, Mr. William Henry Marsh;male;;1;0;0;0.0;73;Chrome;Belfast;Yes
+Partner, Mr. Austen;male;45.5;1;0;0;285000.0;173;Chrome;Surbiton Hill, Surrey;Yes
+Payne, Mr. Vivian Ponsonby;male;23.0;1;0;0;935000.0;152;Chrome;Montreal, PQ;Yes
+Pears, Mr. Thomas Clinton;male;29.0;1;1;0;666000.0;122;Chrome;Isleworth, England;Yes
+Pears, Mrs. Thomas (Edith Wearne);female;22.0;1;1;0;666000.0;50;Chrome;Isleworth, England;No
+Penasco y Castellana, Mr. Victor de Satode;male;18.0;1;1;0;1089000.0;66;Internet Explorer;Madrid, Spain;Yes
+Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo);female;17.0;1;1;0;1089000.0;38;Internet Explorer;Madrid, Spain;No
+Perreault, Miss. Anne;female;30.0;1;0;0;935000.0;204;Chrome;;No
+Peuchen, Major. Arthur Godfrey;male;52.0;1;0;0;305000.0;54;Chrome;Toronto, ON;No
+Porter, Mr. Walter Chamberlain;male;47.0;1;0;0;520000.0;123;Chrome;Worcester, MA;Yes
+Potter, Mrs. Thomas Jr (Lily Alexenia Wilson);female;56.0;1;0;1;831583.0;108;Internet Explorer;Mt Airy, Philadelphia, PA;No
+Reuchlin, Jonkheer. John George;male;38.0;1;0;0;0.0;150;Chrome;Rotterdam, Netherlands;Yes
+Rheims, Mr. George Alexander Lucien;male;;1;0;0;396000.0;145;Chrome;Paris /  New York, NY;No
+Ringhini, Mr. Sante;male;22.0;1;0;0;1356333.0;31;Internet Explorer;;Yes
+Robbins, Mr. Victor;male;;1;0;0;2275250.0;210;Internet Explorer;;Yes
+Robert, Mrs. Edward Scott (Elisabeth Walton McMillan);female;43.0;1;0;1;2113375.0;222;Chrome;St Louis, MO;No
+Roebling, Mr. Washington Augustus II;male;31.0;1;0;0;504958.0;134;Chrome;Trenton, NJ;Yes
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")";male;45.0;1;0;0;265500.0;29;Chrome;New York, NY;No
+Rood, Mr. Hugh Roscoe;male;;1;0;0;500000.0;69;Chrome;Seattle, WA;Yes
+Rosenbaum, Miss. Edith Louise;female;33.0;1;0;0;277208.0;219;Internet Explorer;Paris, France;No
+"Rosenshine, Mr. George (""Mr George Thorne"")";male;46.0;1;0;0;792000.0;23;Internet Explorer;New York, NY;Yes
+Ross, Mr. John Hugo;male;36.0;1;0;0;401250.0;238;Internet Explorer;Winnipeg, MB;Yes
+Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards);female;33.0;1;0;0;865000.0;214;Chrome;London  Vancouver, BC;No
+Rothschild, Mr. Martin;male;55.0;1;1;0;594000.0;197;Internet Explorer;New York, NY;Yes
+Rothschild, Mrs. Martin (Elizabeth L. Barrett);female;54.0;1;1;0;594000.0;178;Internet Explorer;New York, NY;No
+Rowe, Mr. Alfred G;male;33.0;1;0;0;265500.0;66;Chrome;London;Yes
+Ryerson, Master. John Borie;male;13.0;1;2;2;2623750.0;207;Internet Explorer;Haverford, PA / Cooperstown, NY;No
+Ryerson, Miss. Emily Borie;female;18.0;1;2;2;2623750.0;245;Internet Explorer;Haverford, PA / Cooperstown, NY;No
+"Ryerson, Miss. Susan Parker ""Suzette""";female;21.0;1;2;2;2623750.0;228;Internet Explorer;Haverford, PA / Cooperstown, NY;No
+Ryerson, Mr. Arthur Larned;male;61.0;1;1;3;2623750.0;235;Internet Explorer;Haverford, PA / Cooperstown, NY;Yes
+Ryerson, Mrs. Arthur Larned (Emily Maria Borie);female;48.0;1;1;3;2623750.0;33;Internet Explorer;Haverford, PA / Cooperstown, NY;No
+Saalfeld, Mr. Adolphe;male;;1;0;0;305000.0;37;Chrome;Manchester, England;No
+Sagesser, Mlle. Emma;female;24.0;1;0;0;693000.0;256;Internet Explorer;;No
+Salomon, Mr. Abraham L;male;;1;0;0;260000.0;222;Chrome;New York, NY;No
+Schabert, Mrs. Paul (Emma Mock);female;35.0;1;1;0;577500.0;189;Internet Explorer;New York, NY;No
+Serepeca, Miss. Augusta;female;30.0;1;0;0;310000.0;119;Internet Explorer;;No
+Seward, Mr. Frederic Kimber;male;34.0;1;0;0;265500.0;38;Chrome;New York, NY;No
+Shutes, Miss. Elizabeth W;female;40.0;1;0;0;1534625.0;200;Chrome;New York, NY / Greenwich CT;No
+Silverthorne, Mr. Spencer Victor;male;35.0;1;0;0;262875.0;244;Chrome;St Louis, MO;No
+Silvey, Mr. William Baird;male;50.0;1;1;0;559000.0;194;Chrome;Duluth, MN;Yes
+Silvey, Mrs. William Baird (Alice Munger);female;39.0;1;1;0;559000.0;148;Chrome;Duluth, MN;No
+Simonius-Blumer, Col. Oberst Alfons;male;56.0;1;0;0;355000.0;149;Internet Explorer;Basel, Switzerland;No
+Sloper, Mr. William Thompson;male;28.0;1;0;0;355000.0;118;Chrome;New Britain, CT;No
+Smart, Mr. John Montgomery;male;56.0;1;0;0;265500.0;77;Chrome;New York, NY;Yes
+Smith, Mr. James Clinch;male;56.0;1;0;0;306958.0;97;Internet Explorer;St James, Long Island, NY;Yes
+Smith, Mr. Lucien Philip;male;24.0;1;1;0;600000.0;30;Chrome;Huntington, WV;Yes
+Smith, Mr. Richard William;male;;1;0;0;260000.0;239;Chrome;Streatham, Surrey;Yes
+Smith, Mrs. Lucien Philip (Mary Eloise Hughes);female;18.0;1;1;0;600000.0;114;Chrome;Huntington, WV;No
+Snyder, Mr. John Pillsbury;male;24.0;1;1;0;822667.0;239;Chrome;Minneapolis, MN;No
+Snyder, Mrs. John Pillsbury (Nelle Stevenson);female;23.0;1;1;0;822667.0;179;Chrome;Minneapolis, MN;No
+Spedden, Master. Robert Douglas;male;6.0;1;0;2;1345000.0;40;Internet Explorer;Tuxedo Park, NY;No
+Spedden, Mr. Frederic Oakley;male;45.0;1;1;1;1345000.0;220;Internet Explorer;Tuxedo Park, NY;No
+Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone);female;40.0;1;1;1;1345000.0;221;Internet Explorer;Tuxedo Park, NY;No
+Spencer, Mr. William Augustus;male;57.0;1;1;0;1465208.0;7;Internet Explorer;Paris, France;Yes
+Spencer, Mrs. William Augustus (Marie Eugenie);female;;1;1;0;1465208.0;217;Internet Explorer;Paris, France;No
+Stahelin-Maeglin, Dr. Max;male;32.0;1;0;0;305000.0;134;Internet Explorer;Basel, Switzerland;No
+Stead, Mr. William Thomas;male;62.0;1;0;0;265500.0;180;Chrome;Wimbledon Park, London / Hayling Island, Hants;Yes
+Stengel, Mr. Charles Emil Henry;male;54.0;1;1;0;554417.0;210;Internet Explorer;Newark, NJ;No
+Stengel, Mrs. Charles Emil Henry (Annie May Morris);female;43.0;1;1;0;554417.0;232;Internet Explorer;Newark, NJ;No
+Stephenson, Mrs. Walter Bertram (Martha Eustis);female;52.0;1;1;0;782667.0;92;Internet Explorer;Haverford, PA;No
+Stewart, Mr. Albert A;male;;1;0;0;277208.0;137;Internet Explorer;Gallipolis, Ohio / ? Paris / New York;Yes
+Stone, Mrs. George Nelson (Martha Evelyn);female;62.0;1;0;0;800000.0;81;Firefox;Cincinatti, OH;No
+Straus, Mr. Isidor;male;67.0;1;1;0;2217792.0;221;Chrome;New York, NY;Yes
+Straus, Mrs. Isidor (Rosalie Ida Blun);female;63.0;1;1;0;2217792.0;158;Chrome;New York, NY;Yes
+Sutton, Mr. Frederick;male;61.0;1;0;0;323208.0;111;Chrome;Haddenfield, NJ;Yes
+Swift, Mrs. Frederick Joel (Margaret Welles Barron);female;48.0;1;0;0;259292.0;55;Chrome;Brooklyn, NY;No
+Taussig, Miss. Ruth;female;18.0;1;0;2;796500.0;204;Chrome;New York, NY;No
+Taussig, Mr. Emil;male;52.0;1;1;1;796500.0;81;Chrome;New York, NY;Yes
+Taussig, Mrs. Emil (Tillie Mandelbaum);female;39.0;1;1;1;796500.0;28;Chrome;New York, NY;No
+Taylor, Mr. Elmer Zebley;male;48.0;1;1;0;520000.0;19;Chrome;London /  East Orange, NJ;No
+Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright);female;;1;1;0;520000.0;235;Chrome;London /  East Orange, NJ;No
+Thayer, Mr. John Borland;male;49.0;1;1;1;1108833.0;168;Internet Explorer;Haverford, PA;Yes
+Thayer, Mr. John Borland Jr;male;17.0;1;0;2;1108833.0;225;Internet Explorer;Haverford, PA;No
+Thayer, Mrs. John Borland (Marian Longstreth Morris);female;39.0;1;1;1;1108833.0;250;Internet Explorer;Haverford, PA;No
+Thorne, Mrs. Gertrude Maybelle;female;;1;0;0;792000.0;171;Internet Explorer;New York, NY;No
+Tucker, Mr. Gilbert Milligan Jr;male;31.0;1;0;0;285375.0;175;Internet Explorer;Albany, NY;No
+Uruchurtu, Don. Manuel E;male;40.0;1;0;0;277208.0;17;Internet Explorer;Mexico City, Mexico;Yes
+Van der hoef, Mr. Wyckoff;male;61.0;1;0;0;335000.0;246;Chrome;Brooklyn, NY;Yes
+Walker, Mr. William Anderson;male;47.0;1;0;0;340208.0;183;Chrome;East Orange, NJ;Yes
+Ward, Miss. Anna;female;35.0;1;0;0;5123292.0;94;Internet Explorer;;No
+Warren, Mr. Frank Manley;male;64.0;1;1;0;752500.0;75;Internet Explorer;Portland, OR;Yes
+Warren, Mrs. Frank Manley (Anna Sophia Atkinson);female;60.0;1;1;0;752500.0;27;Internet Explorer;Portland, OR;No
+Weir, Col. John;male;60.0;1;0;0;265500.0;256;Chrome;England Salt Lake City, Utah;Yes
+White, Mr. Percival Wayland;male;54.0;1;0;1;772875.0;47;Chrome;Brunswick, ME;Yes
+White, Mr. Richard Frasar;male;21.0;1;0;1;772875.0;27;Chrome;Brunswick, ME;Yes
+White, Mrs. John Stuart (Ella Holmes);female;55.0;1;0;0;1356333.0;152;Internet Explorer;New York, NY / Briarcliff Manor NY;No
+Wick, Miss. Mary Natalie;female;31.0;1;0;2;1648667.0;121;Chrome;Youngstown, OH;No
+Wick, Mr. George Dennick;male;57.0;1;1;1;1648667.0;147;Chrome;Youngstown, OH;Yes
+Wick, Mrs. George Dennick (Mary Hitchcock);female;45.0;1;1;1;1648667.0;22;Chrome;Youngstown, OH;No
+Widener, Mr. George Dunton;male;50.0;1;1;1;2115000.0;134;Internet Explorer;Elkins Park, PA;Yes
+Widener, Mr. Harry Elkins;male;27.0;1;0;2;2115000.0;50;Internet Explorer;Elkins Park, PA;Yes
+Widener, Mrs. George Dunton (Eleanor Elkins);female;50.0;1;1;1;2115000.0;156;Internet Explorer;Elkins Park, PA;No
+Willard, Miss. Constance;female;21.0;1;0;0;265500.0;199;Chrome;Duluth, MN;No
+Williams, Mr. Charles Duane;male;51.0;1;0;1;613792.0;17;Internet Explorer;Geneva, Switzerland / Radnor, PA;Yes
+Williams, Mr. Richard Norris II;male;21.0;1;0;1;613792.0;46;Internet Explorer;Geneva, Switzerland / Radnor, PA;No
+Williams-Lambert, Mr. Fletcher Fellows;male;;1;0;0;350000.0;194;Chrome;London, England;Yes
+Wilson, Miss. Helen Alice;female;31.0;1;0;0;1345000.0;117;Internet Explorer;;No
+Woolner, Mr. Hugh;male;;1;0;0;355000.0;3;Chrome;London, England;No
+Wright, Mr. George;male;62.0;1;0;0;265500.0;154;Chrome;Halifax, NS;Yes
+Young, Miss. Marie Grice;female;36.0;1;0;0;1356333.0;1;Internet Explorer;New York, NY / Washington, DC;No
+Abelson, Mr. Samuel;male;30.0;2;1;0;240000.0;116;Internet Explorer;Russia New York, NY;Yes
+Abelson, Mrs. Samuel (Hannah Wizosky);female;28.0;2;1;0;240000.0;98;Internet Explorer;Russia New York, NY;No
+Aldworth, Mr. Charles Augustus;male;30.0;2;0;0;130000.0;93;Chrome;Bryn Mawr, PA, USA;Yes
+Andrew, Mr. Edgardo Samuel;male;18.0;2;0;0;115000.0;119;Chrome;Buenos Aires, Argentina / New Jersey, NJ;Yes
+Andrew, Mr. Frank Thomas;male;25.0;2;0;0;105000.0;95;Chrome;Cornwall, England Houghton, MI;Yes
+Angle, Mr. William A;male;34.0;2;1;0;260000.0;94;Chrome;Warwick, England;Yes
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)";female;36.0;2;1;0;260000.0;96;Chrome;Warwick, England;No
+Ashby, Mr. John;male;57.0;2;0;0;130000.0;11;Chrome;West Hoboken, NJ;Yes
+Bailey, Mr. Percy Andrew;male;18.0;2;0;0;115000.0;179;Chrome;Penzance, Cornwall / Akron, OH;Yes
+Baimbrigge, Mr. Charles Robert;male;23.0;2;0;0;105000.0;187;Chrome;Guernsey;Yes
+Ball, Mrs. (Ada E Hall);female;36.0;2;0;0;130000.0;78;Chrome;Bristol, Avon / Jacksonville, FL;No
+Banfield, Mr. Frederick James;male;28.0;2;0;0;105000.0;102;Chrome;Plymouth, Dorset / Houghton, MI;Yes
+Bateman, Rev. Robert James;male;51.0;2;0;0;125250.0;176;Chrome;Jacksonville, FL;Yes
+Beane, Mr. Edward;male;32.0;2;1;0;260000.0;166;Chrome;Norwich / New York, NY;No
+Beane, Mrs. Edward (Ethel Clarke);female;19.0;2;1;0;260000.0;143;Chrome;Norwich / New York, NY;No
+Beauchamp, Mr. Henry James;male;28.0;2;0;0;260000.0;36;Chrome;England;Yes
+Becker, Master. Richard F;male;1.0;2;2;1;390000.0;22;Chrome;Guntur, India / Benton Harbour, MI;No
+Becker, Miss. Marion Louise;female;4.0;2;2;1;390000.0;126;Chrome;Guntur, India / Benton Harbour, MI;No
+Becker, Miss. Ruth Elizabeth;female;12.0;2;2;1;390000.0;130;Chrome;Guntur, India / Benton Harbour, MI;No
+Becker, Mrs. Allen Oliver (Nellie E Baumgardner);female;36.0;2;0;3;390000.0;15;Chrome;Guntur, India / Benton Harbour, MI;No
+Beesley, Mr. Lawrence;male;34.0;2;0;0;130000.0;146;Chrome;London;No
+Bentham, Miss. Lilian W;female;19.0;2;0;0;130000.0;8;Chrome;Rochester, NY;No
+Berriman, Mr. William John;male;23.0;2;0;0;130000.0;86;Chrome;St Ives, Cornwall / Calumet, MI;Yes
+Botsford, Mr. William Hull;male;26.0;2;0;0;130000.0;31;Chrome;Elmira, NY / Orange, NJ;Yes
+Bowenur, Mr. Solomon;male;42.0;2;0;0;130000.0;248;Chrome;London;Yes
+Bracken, Mr. James H;male;27.0;2;0;0;130000.0;133;Chrome;Lake Arthur, Chavez County, NM;Yes
+"Brown, Miss. Amelia ""Mildred""";female;24.0;2;0;0;130000.0;100;Chrome;London / Montreal, PQ;No
+Brown, Miss. Edith Eileen;female;15.0;2;0;2;390000.0;252;Chrome;Cape Town, South Africa / Seattle, WA;No
+Brown, Mr. Thomas William Solomon;male;60.0;2;1;1;390000.0;60;Chrome;Cape Town, South Africa / Seattle, WA;Yes
+Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford);female;40.0;2;1;1;390000.0;61;Chrome;Cape Town, South Africa / Seattle, WA;No
+Bryhl, Miss. Dagmar Jenny Ingeborg ;female;20.0;2;1;0;260000.0;119;Chrome;Skara, Sweden / Rockford, IL;No
+Bryhl, Mr. Kurt Arnold Gottfrid;male;25.0;2;1;0;260000.0;127;Chrome;Skara, Sweden / Rockford, IL;Yes
+Buss, Miss. Kate;female;36.0;2;0;0;130000.0;174;Chrome;Sittingbourne, England / San Diego, CA;No
+Butler, Mr. Reginald Fenton;male;25.0;2;0;0;130000.0;245;Chrome;Southsea, Hants;Yes
+Byles, Rev. Thomas Roussel Davids;male;42.0;2;0;0;130000.0;247;Chrome;London;Yes
+Bystrom, Mrs. (Karolina);female;42.0;2;0;0;130000.0;121;Chrome;New York, NY;No
+Caldwell, Master. Alden Gates;male;0.8333;2;0;2;290000.0;88;Chrome;Bangkok, Thailand / Roseville, IL;No
+Caldwell, Mr. Albert Francis;male;26.0;2;1;1;290000.0;94;Chrome;Bangkok, Thailand / Roseville, IL;No
+Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh);female;22.0;2;1;1;290000.0;171;Chrome;Bangkok, Thailand / Roseville, IL;No
+Cameron, Miss. Clear Annie;female;35.0;2;0;0;210000.0;33;Chrome;Mamaroneck, NY;No
+Campbell, Mr. William;male;;2;0;0;0.0;31;Chrome;Belfast;Yes
+Carbines, Mr. William;male;19.0;2;0;0;130000.0;76;Chrome;St Ives, Cornwall / Calumet, MI;Yes
+Carter, Mrs. Ernest Courtenay (Lilian Hughes);female;44.0;2;1;0;260000.0;106;Chrome;London;Yes
+Carter, Rev. Ernest Courtenay;male;54.0;2;1;0;260000.0;141;Chrome;London;Yes
+Chapman, Mr. Charles Henry;male;52.0;2;0;0;135000.0;76;Chrome;Bronx, NY;Yes
+Chapman, Mr. John Henry;male;37.0;2;1;0;260000.0;251;Chrome;Cornwall / Spokane, WA;Yes
+Chapman, Mrs. John Henry (Sara Elizabeth Lawry);female;29.0;2;1;0;260000.0;182;Chrome;Cornwall / Spokane, WA;Yes
+Christy, Miss. Julie Rachel;female;25.0;2;1;1;300000.0;142;Chrome;London;No
+Christy, Mrs. (Alice Frances);female;45.0;2;0;2;300000.0;231;Chrome;London;No
+Clarke, Mr. Charles Valentine;male;29.0;2;1;0;260000.0;202;Chrome;England / San Francisco, CA;Yes
+Clarke, Mrs. Charles V (Ada Maria Winfield);female;28.0;2;1;0;260000.0;244;Chrome;England / San Francisco, CA;No
+Coleridge, Mr. Reginald Charles;male;29.0;2;0;0;105000.0;35;Chrome;Hartford, Huntingdonshire;Yes
+Collander, Mr. Erik Gustaf;male;28.0;2;0;0;130000.0;92;Chrome;Helsinki, Finland Ashtabula, Ohio;Yes
+Collett, Mr. Sidney C Stuart;male;24.0;2;0;0;105000.0;47;Chrome;London / Fort Byron, NY;No
+"Collyer, Miss. Marjorie ""Lottie""";female;8.0;2;0;2;262500.0;52;Chrome;Bishopstoke, Hants / Fayette Valley, ID;No
+Collyer, Mr. Harvey;male;31.0;2;1;1;262500.0;118;Chrome;Bishopstoke, Hants / Fayette Valley, ID;Yes
+Collyer, Mrs. Harvey (Charlotte Annie Tate);female;31.0;2;1;1;262500.0;121;Chrome;Bishopstoke, Hants / Fayette Valley, ID;No
+Cook, Mrs. (Selena Rogers);female;22.0;2;0;0;105000.0;99;Chrome;Pennsylvania;No
+Corbett, Mrs. Walter H (Irene Colvin);female;30.0;2;0;0;130000.0;25;Chrome;Provo, UT;Yes
+Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller);female;;2;0;0;210000.0;19;Chrome;Upper Burma, India Pittsburgh, PA;Yes
+"Cotterill, Mr. Henry ""Harry""";male;21.0;2;0;0;115000.0;176;Chrome;Penzance, Cornwall / Akron, OH;Yes
+Cunningham, Mr. Alfred Fleming;male;;2;0;0;0.0;109;Chrome;Belfast;Yes
+Davies, Master. John Morgan Jr;male;8.0;2;1;1;367500.0;135;Chrome;St Ives, Cornwall / Hancock, MI;No
+Davies, Mr. Charles Henry;male;18.0;2;0;0;735000.0;153;Chrome;Lyndhurst, England;Yes
+Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ;female;48.0;2;0;2;367500.0;88;Chrome;St Ives, Cornwall / Hancock, MI;No
+Davis, Miss. Mary;female;28.0;2;0;0;130000.0;225;Chrome;London / Staten Island, NY;No
+de Brito, Mr. Jose Joaquim;male;32.0;2;0;0;130000.0;196;Chrome;Portugal / Sau Paulo, Brazil;Yes
+Deacon, Mr. Percy William;male;17.0;2;0;0;735000.0;59;Chrome;;Yes
+del Carlo, Mr. Sebastiano;male;29.0;2;1;0;277208.0;110;Internet Explorer;Lucca, Italy / California;Yes
+del Carlo, Mrs. Sebastiano (Argenia Genovesi);female;24.0;2;1;0;277208.0;108;Internet Explorer;Lucca, Italy / California;No
+Denbury, Mr. Herbert;male;25.0;2;0;0;315000.0;200;Chrome;Guernsey / Elizabeth, NJ;Yes
+Dibden, Mr. William;male;18.0;2;0;0;735000.0;30;Chrome;New Forest, England;Yes
+Doling, Miss. Elsie;female;18.0;2;0;1;230000.0;147;Chrome;Southampton;No
+Doling, Mrs. John T (Ada Julia Bone);female;34.0;2;0;1;230000.0;85;Chrome;Southampton;No
+Downton, Mr. William James;male;54.0;2;0;0;260000.0;52;Chrome;Holley, NY;Yes
+Drew, Master. Marshall Brines;male;8.0;2;0;2;325000.0;56;Chrome;Greenport, NY;No
+Drew, Mr. James Vivian;male;42.0;2;1;1;325000.0;110;Chrome;Greenport, NY;Yes
+Drew, Mrs. James Vivian (Lulu Thorne Christian);female;34.0;2;1;1;325000.0;141;Chrome;Greenport, NY;No
+Duran y More, Miss. Asuncion;female;27.0;2;1;0;138583.0;209;Internet Explorer;Barcelona, Spain / Havana, Cuba;No
+Duran y More, Miss. Florentina;female;30.0;2;1;0;138583.0;109;Internet Explorer;Barcelona, Spain / Havana, Cuba;No
+Eitemiller, Mr. George Floyd;male;23.0;2;0;0;130000.0;129;Chrome;England / Detroit, MI;Yes
+Enander, Mr. Ingvar;male;21.0;2;0;0;130000.0;5;Chrome;Goteborg, Sweden / Rockford, IL;Yes
+Fahlstrom, Mr. Arne Jonas;male;18.0;2;0;0;130000.0;146;Chrome;Oslo, Norway Bayonne, NJ;Yes
+Faunthorpe, Mr. Harry;male;40.0;2;1;0;260000.0;180;Chrome;England / Philadelphia, PA;Yes
+Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson);female;29.0;2;1;0;260000.0;228;Chrome;;No
+Fillbrook, Mr. Joseph Charles;male;18.0;2;0;0;105000.0;238;Chrome;Cornwall / Houghton, MI;Yes
+Fox, Mr. Stanley Hubert;male;36.0;2;0;0;130000.0;10;Chrome;Rochester, NY;Yes
+"Frost, Mr. Anthony Wood ""Archie""";male;;2;0;0;0.0;178;Chrome;Belfast;Yes
+Funk, Miss. Annie Clemmer;female;38.0;2;0;0;130000.0;136;Chrome;Janjgir, India / Pennsylvania;Yes
+Fynney, Mr. Joseph J;male;35.0;2;0;0;260000.0;145;Chrome;Liverpool / Montreal, PQ;Yes
+Gale, Mr. Harry;male;38.0;2;1;0;210000.0;103;Chrome;Cornwall / Clear Creek, CO;Yes
+Gale, Mr. Shadrach;male;34.0;2;1;0;210000.0;4;Chrome;Cornwall / Clear Creek, CO;Yes
+Garside, Miss. Ethel;female;34.0;2;0;0;130000.0;114;Chrome;Brooklyn, NY;No
+Gaskell, Mr. Alfred;male;16.0;2;0;0;260000.0;162;Chrome;Liverpool / Montreal, PQ;Yes
+Gavey, Mr. Lawrence;male;26.0;2;0;0;105000.0;165;Chrome;Guernsey / Elizabeth, NJ;Yes
+Gilbert, Mr. William;male;47.0;2;0;0;105000.0;27;Chrome;Cornwall;Yes
+Giles, Mr. Edgar;male;21.0;2;1;0;115000.0;197;Chrome;Cornwall / Camden, NJ;Yes
+Giles, Mr. Frederick Edward;male;21.0;2;1;0;115000.0;102;Chrome;Cornwall / Camden, NJ;Yes
+Giles, Mr. Ralph;male;24.0;2;0;0;135000.0;231;Chrome;West Kensington, London;Yes
+Gill, Mr. John William;male;24.0;2;0;0;130000.0;182;Chrome;Clevedon, England;Yes
+Gillespie, Mr. William Henry;male;34.0;2;0;0;130000.0;66;Chrome;Vancouver, BC;Yes
+Givard, Mr. Hans Kristensen;male;30.0;2;0;0;130000.0;80;Chrome;;Yes
+Greenberg, Mr. Samuel;male;52.0;2;0;0;130000.0;95;Chrome;Bronx, NY;Yes
+Hale, Mr. Reginald;male;30.0;2;0;0;130000.0;184;Chrome;Auburn, NY;Yes
+Hamalainen, Master. Viljo;male;0.6667;2;1;1;145000.0;154;Chrome;Detroit, MI;No
+Hamalainen, Mrs. William (Anna);female;24.0;2;0;2;145000.0;194;Chrome;Detroit, MI;No
+Harbeck, Mr. William H;male;44.0;2;0;0;130000.0;5;Chrome;Seattle, WA / Toledo, OH;Yes
+"Harper, Miss. Annie Jessie ""Nina""";female;6.0;2;0;1;330000.0;175;Chrome;Denmark Hill, Surrey / Chicago;No
+Harper, Rev. John;male;28.0;2;0;1;330000.0;92;Chrome;Denmark Hill, Surrey / Chicago;Yes
+Harris, Mr. George;male;62.0;2;0;0;105000.0;243;Chrome;London;No
+Harris, Mr. Walter;male;30.0;2;0;0;105000.0;189;Chrome;Walthamstow, England;Yes
+Hart, Miss. Eva Miriam;female;7.0;2;0;2;262500.0;129;Chrome;Ilford, Essex / Winnipeg, MB;No
+Hart, Mr. Benjamin;male;43.0;2;1;1;262500.0;88;Chrome;Ilford, Essex / Winnipeg, MB;Yes
+Hart, Mrs. Benjamin (Esther Ada Bloomfield);female;45.0;2;1;1;262500.0;114;Chrome;Ilford, Essex / Winnipeg, MB;No
+Herman, Miss. Alice;female;24.0;2;1;2;650000.0;116;Chrome;Somerset / Bernardsville, NJ;No
+Herman, Miss. Kate;female;24.0;2;1;2;650000.0;213;Chrome;Somerset / Bernardsville, NJ;No
+Herman, Mr. Samuel;male;49.0;2;1;2;650000.0;256;Chrome;Somerset / Bernardsville, NJ;Yes
+Herman, Mrs. Samuel (Jane Laver);female;48.0;2;1;2;650000.0;10;Chrome;Somerset / Bernardsville, NJ;No
+Hewlett, Mrs. (Mary D Kingcome) ;female;55.0;2;0;0;160000.0;190;Chrome;India / Rapid City, SD;No
+Hickman, Mr. Leonard Mark;male;24.0;2;2;0;735000.0;110;Chrome;West Hampstead, London / Neepawa, MB;Yes
+Hickman, Mr. Lewis;male;32.0;2;2;0;735000.0;82;Chrome;West Hampstead, London / Neepawa, MB;Yes
+Hickman, Mr. Stanley George;male;21.0;2;2;0;735000.0;202;Chrome;West Hampstead, London / Neepawa, MB;Yes
+Hiltunen, Miss. Marta;female;18.0;2;1;1;130000.0;118;Chrome;Kontiolahti, Finland / Detroit, MI;Yes
+"Hocking, Miss. Ellen ""Nellie""";female;20.0;2;2;1;230000.0;42;Chrome;Cornwall / Akron, OH;No
+Hocking, Mr. Richard George;male;23.0;2;2;1;115000.0;162;Chrome;Cornwall / Akron, OH;Yes
+Hocking, Mr. Samuel James Metcalfe;male;36.0;2;0;0;130000.0;38;Chrome;Devonport, England;Yes
+Hocking, Mrs. Elizabeth (Eliza Needs);female;54.0;2;1;3;230000.0;193;Chrome;Cornwall / Akron, OH;No
+Hodges, Mr. Henry Price;male;50.0;2;0;0;130000.0;10;Chrome;Southampton;Yes
+Hold, Mr. Stephen;male;44.0;2;1;0;260000.0;153;Chrome;England / Sacramento, CA;Yes
+Hold, Mrs. Stephen (Annie Margaret Hill);female;29.0;2;1;0;260000.0;125;Chrome;England / Sacramento, CA;No
+Hood, Mr. Ambrose Jr;male;21.0;2;0;0;735000.0;7;Chrome;New Forest, England;Yes
+Hosono, Mr. Masabumi;male;42.0;2;0;0;130000.0;87;Chrome;Tokyo, Japan;No
+Howard, Mr. Benjamin;male;63.0;2;1;0;260000.0;148;Chrome;Swindon, England;Yes
+Howard, Mrs. Benjamin (Ellen Truelove Arman);female;60.0;2;1;0;260000.0;200;Chrome;Swindon, England;Yes
+Hunt, Mr. George Henry;male;33.0;2;0;0;122750.0;67;Chrome;Philadelphia, PA;Yes
+Ilett, Miss. Bertha;female;17.0;2;0;0;105000.0;3;Chrome;Guernsey;No
+Jacobsohn, Mr. Sidney Samuel;male;42.0;2;1;0;270000.0;1;Chrome;London;Yes
+Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy);female;24.0;2;2;1;270000.0;15;Chrome;London;No
+Jarvis, Mr. John Denzil;male;47.0;2;0;0;150000.0;252;Chrome;North Evington, England;Yes
+Jefferys, Mr. Clifford Thomas;male;24.0;2;2;0;315000.0;102;Chrome;Guernsey / Elizabeth, NJ;Yes
+Jefferys, Mr. Ernest Wilfred;male;22.0;2;2;0;315000.0;121;Chrome;Guernsey / Elizabeth, NJ;Yes
+Jenkin, Mr. Stephen Curnow;male;32.0;2;0;0;105000.0;144;Chrome;St Ives, Cornwall / Houghton, MI;Yes
+Jerwan, Mrs. Amin S (Marie Marthe Thuillard);female;23.0;2;0;0;137917.0;89;Internet Explorer;New York, NY;No
+Kantor, Mr. Sinai;male;34.0;2;1;0;260000.0;251;Chrome;Moscow / Bronx, NY;Yes
+Kantor, Mrs. Sinai (Miriam Sternin);female;24.0;2;1;0;260000.0;51;Chrome;Moscow / Bronx, NY;No
+Karnes, Mrs. J Frank (Claire Bennett);female;22.0;2;0;0;210000.0;139;Chrome;India / Pittsburgh, PA;Yes
+Keane, Miss. Nora A;female;;2;0;0;123500.0;101;Firefox;Harrisburg, PA;No
+Keane, Mr. Daniel;male;35.0;2;0;0;123500.0;14;Firefox;;Yes
+"Kelly, Mrs. Florence ""Fannie""";female;45.0;2;0;0;135000.0;91;Chrome;London / New York, NY;No
+Kirkland, Rev. Charles Leonard;male;57.0;2;0;0;123500.0;68;Firefox;Glasgow / Bangor, ME;Yes
+Knight, Mr. Robert J;male;;2;0;0;0.0;242;Chrome;Belfast;Yes
+Kvillner, Mr. Johan Henrik Johannesson;male;31.0;2;0;0;105000.0;162;Chrome;Sweden / Arlington, NJ;Yes
+Lahtinen, Mrs. William (Anna Sylfven);female;26.0;2;1;1;260000.0;243;Chrome;Minneapolis, MN;Yes
+Lahtinen, Rev. William;male;30.0;2;1;1;260000.0;146;Chrome;Minneapolis, MN;Yes
+Lamb, Mr. John Joseph;male;;2;0;0;107083.0;200;Firefox;;Yes
+Laroche, Miss. Louise;female;1.0;2;1;2;415792.0;176;Internet Explorer;Paris / Haiti;No
+Laroche, Miss. Simonne Marie Anne Andree;female;3.0;2;1;2;415792.0;81;Internet Explorer;Paris / Haiti;No
+Laroche, Mr. Joseph Philippe Lemercier;male;25.0;2;1;2;415792.0;151;Internet Explorer;Paris / Haiti;Yes
+Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue);female;22.0;2;1;2;415792.0;74;Internet Explorer;Paris / Haiti;No
+Lehmann, Miss. Bertha;female;17.0;2;0;0;120000.0;3;Internet Explorer;Berne, Switzerland / Central City, IA;No
+Leitch, Miss. Jessie Wills;female;;2;0;0;330000.0;179;Chrome;London / Chicago, IL;No
+Lemore, Mrs. (Amelia Milley);female;34.0;2;0;0;105000.0;103;Chrome;Chicago, IL;No
+Levy, Mr. Rene Jacques;male;36.0;2;0;0;128750.0;24;Internet Explorer;Montreal, PQ;Yes
+Leyson, Mr. Robert William Norman;male;24.0;2;0;0;105000.0;236;Chrome;;Yes
+Lingane, Mr. John;male;61.0;2;0;0;123500.0;159;Firefox;;Yes
+Louch, Mr. Charles Alexander;male;50.0;2;1;0;260000.0;254;Chrome;Weston-Super-Mare, Somerset;Yes
+Louch, Mrs. Charles Alexander (Alice Adelaide Slow);female;42.0;2;1;0;260000.0;63;Chrome;Weston-Super-Mare, Somerset;No
+Mack, Mrs. (Mary);female;57.0;2;0;0;105000.0;192;Chrome;Southampton / New York, NY;Yes
+Malachard, Mr. Noel;male;;2;0;0;150458.0;230;Internet Explorer;Paris;Yes
+Mallet, Master. Andre;male;1.0;2;0;2;370042.0;26;Internet Explorer;Paris / Montreal, PQ;No
+Mallet, Mr. Albert;male;31.0;2;1;1;370042.0;240;Internet Explorer;Paris / Montreal, PQ;Yes
+Mallet, Mrs. Albert (Antoinette Magnin);female;24.0;2;1;1;370042.0;39;Internet Explorer;Paris / Montreal, PQ;No
+Mangiavacchi, Mr. Serafino Emilio;male;;2;0;0;155792.0;61;Internet Explorer;New York, NY;Yes
+Matthews, Mr. William John;male;30.0;2;0;0;130000.0;252;Chrome;St Austall, Cornwall;Yes
+Maybery, Mr. Frank Hubert;male;40.0;2;0;0;160000.0;229;Chrome;Weston-Super-Mare / Moose Jaw, SK;Yes
+McCrae, Mr. Arthur Gordon;male;32.0;2;0;0;135000.0;136;Chrome;Sydney, Australia;Yes
+McCrie, Mr. James Matthew;male;30.0;2;0;0;130000.0;200;Chrome;Sarnia, ON;Yes
+McKane, Mr. Peter David;male;46.0;2;0;0;260000.0;24;Chrome;Rochester, NY;Yes
+Mellinger, Miss. Madeleine Violet;female;13.0;2;0;1;195000.0;6;Chrome;England / Bennington, VT;No
+Mellinger, Mrs. (Elizabeth Anne Maidment);female;41.0;2;0;1;195000.0;82;Chrome;England / Bennington, VT;No
+Mellors, Mr. William John;male;19.0;2;0;0;105000.0;242;Chrome;Chelsea, London;No
+Meyer, Mr. August;male;39.0;2;0;0;130000.0;140;Chrome;Harrow-on-the-Hill, Middlesex;Yes
+Milling, Mr. Jacob Christian;male;48.0;2;0;0;130000.0;129;Chrome;Copenhagen, Denmark;Yes
+Mitchell, Mr. Henry Michael;male;70.0;2;0;0;105000.0;45;Chrome;Guernsey / Montclair, NJ and/or Toledo, Ohio;Yes
+Montvila, Rev. Juozas;male;27.0;2;0;0;130000.0;250;Chrome;Worcester, MA;Yes
+Moraweck, Dr. Ernest;male;54.0;2;0;0;140000.0;187;Chrome;Frankfort, KY;Yes
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")";male;39.0;2;0;0;260000.0;244;Chrome;;Yes
+Mudd, Mr. Thomas Charles;male;16.0;2;0;0;105000.0;135;Chrome;Halesworth, England;Yes
+Myles, Mr. Thomas Francis;male;62.0;2;0;0;96875.0;96;Firefox;Cambridge, MA;Yes
+Nasser, Mr. Nicholas;male;32.5;2;1;0;300708.0;223;Internet Explorer;New York, NY;Yes
+Nasser, Mrs. Nicholas (Adele Achem);female;14.0;2;1;0;300708.0;35;Internet Explorer;New York, NY;No
+Navratil, Master. Edmond Roger;male;2.0;2;1;1;260000.0;128;Chrome;Nice, France;No
+Navratil, Master. Michel M;male;3.0;2;1;1;260000.0;27;Chrome;Nice, France;No
+"Navratil, Mr. Michel (""Louis M Hoffman"")";male;36.5;2;0;2;260000.0;211;Chrome;Nice, France;Yes
+Nesson, Mr. Israel;male;26.0;2;0;0;130000.0;99;Chrome;Boston, MA;Yes
+Nicholls, Mr. Joseph Charles;male;19.0;2;1;1;367500.0;112;Chrome;Cornwall / Hancock, MI;Yes
+Norman, Mr. Robert Douglas;male;28.0;2;0;0;135000.0;208;Chrome;Glasgow;Yes
+"Nourney, Mr. Alfred (""Baron von Drachstedt"")";male;20.0;2;0;0;138625.0;256;Internet Explorer;Cologne, Germany;No
+Nye, Mrs. (Elizabeth Ramell);female;29.0;2;0;0;105000.0;227;Chrome;Folkstone, Kent / New York, NY;No
+Otter, Mr. Richard;male;39.0;2;0;0;130000.0;222;Chrome;Middleburg Heights, OH;Yes
+Oxenham, Mr. Percy Thomas;male;22.0;2;0;0;105000.0;84;Chrome;Pondersend, England / New Durham, NJ;No
+Padro y Manent, Mr. Julian;male;;2;0;0;138625.0;187;Internet Explorer;Spain / Havana, Cuba;No
+Pain, Dr. Alfred;male;23.0;2;0;0;105000.0;211;Chrome;Hamilton, ON;Yes
+Pallas y Castello, Mr. Emilio;male;29.0;2;0;0;138583.0;159;Internet Explorer;Spain / Havana, Cuba;No
+Parker, Mr. Clifford Richard;male;28.0;2;0;0;105000.0;36;Chrome;St Andrews, Guernsey;Yes
+"Parkes, Mr. Francis ""Frank""";male;;2;0;0;0.0;71;Chrome;Belfast;Yes
+Parrish, Mrs. (Lutie Davis);female;50.0;2;0;1;260000.0;140;Chrome;Woodford County, KY;No
+Pengelly, Mr. Frederick William;male;19.0;2;0;0;105000.0;251;Chrome;Gunnislake, England / Butte, MT;Yes
+Pernot, Mr. Rene;male;;2;0;0;150500.0;143;Internet Explorer;;Yes
+Peruschitz, Rev. Joseph Maria;male;41.0;2;0;0;130000.0;139;Chrome;;Yes
+Phillips, Miss. Alice Frances Louisa;female;21.0;2;0;1;210000.0;59;Chrome;Ilfracombe, Devon;No
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")";female;19.0;2;0;0;260000.0;129;Chrome;Worcester, England;No
+Phillips, Mr. Escott Robert;male;43.0;2;0;1;210000.0;21;Chrome;Ilfracombe, Devon;Yes
+Pinsky, Mrs. (Rosa);female;32.0;2;0;0;130000.0;160;Chrome;Russia;No
+Ponesell, Mr. Martin;male;34.0;2;0;0;130000.0;235;Chrome;Denmark / New York, NY;Yes
+Portaluppi, Mr. Emilio Ilario Giuseppe;male;30.0;2;0;0;127375.0;80;Internet Explorer;Milford, NH;No
+Pulbaum, Mr. Franz;male;27.0;2;0;0;150333.0;175;Internet Explorer;Paris;Yes
+Quick, Miss. Phyllis May;female;2.0;2;1;1;260000.0;156;Chrome;Plymouth, Devon / Detroit, MI;No
+Quick, Miss. Winifred Vera;female;8.0;2;1;1;260000.0;71;Chrome;Plymouth, Devon / Detroit, MI;No
+Quick, Mrs. Frederick Charles (Jane Richards);female;33.0;2;0;2;260000.0;249;Chrome;Plymouth, Devon / Detroit, MI;No
+Reeves, Mr. David;male;36.0;2;0;0;105000.0;157;Chrome;Brighton, Sussex;Yes
+Renouf, Mr. Peter Henry;male;34.0;2;1;0;210000.0;176;Chrome;Elizabeth, NJ;Yes
+Renouf, Mrs. Peter Henry (Lillian Jefferys);female;30.0;2;3;0;210000.0;207;Chrome;Elizabeth, NJ;No
+Reynaldo, Ms. Encarnacion;female;28.0;2;0;0;130000.0;151;Chrome;Spain;No
+Richard, Mr. Emile;male;23.0;2;0;0;150458.0;208;Internet Explorer;Paris / Montreal, PQ;Yes
+Richards, Master. George Sibley;male;0.8333;2;1;1;187500.0;240;Chrome;Cornwall / Akron, OH;No
+Richards, Master. William Rowe;male;3.0;2;1;1;187500.0;61;Chrome;Cornwall / Akron, OH;No
+Richards, Mrs. Sidney (Emily Hocking);female;24.0;2;2;3;187500.0;87;Chrome;Cornwall / Akron, OH;No
+Ridsdale, Miss. Lucy;female;50.0;2;0;0;105000.0;190;Chrome;London, England / Marietta, Ohio and Milwaukee, WI;No
+Rogers, Mr. Reginald Harry;male;19.0;2;0;0;105000.0;19;Chrome;;Yes
+Rugg, Miss. Emily;female;21.0;2;0;0;105000.0;144;Chrome;Guernsey / Wilmington, DE;No
+Schmidt, Mr. August;male;26.0;2;0;0;130000.0;24;Chrome;Newark, NJ;Yes
+Sedgwick, Mr. Charles Frederick Waddington;male;25.0;2;0;0;130000.0;189;Chrome;Liverpool;Yes
+Sharp, Mr. Percival James R;male;27.0;2;0;0;260000.0;182;Chrome;Hornsey, England;Yes
+Shelley, Mrs. William (Imanita Parrish Hall);female;25.0;2;0;1;260000.0;1;Chrome;Deer Lodge, MT;No
+Silven, Miss. Lyyli Karoliina;female;18.0;2;0;2;130000.0;56;Chrome;Finland / Minneapolis, MN;No
+Sincock, Miss. Maude;female;20.0;2;0;0;367500.0;112;Chrome;Cornwall / Hancock, MI;No
+Sinkkonen, Miss. Anna;female;30.0;2;0;0;130000.0;154;Chrome;Finland / Washington, DC;No
+Sjostedt, Mr. Ernst Adolf;male;59.0;2;0;0;135000.0;66;Chrome;Sault St Marie, ON;Yes
+Slayter, Miss. Hilda Mary;female;30.0;2;0;0;123500.0;92;Firefox;Halifax, NS;No
+Slemen, Mr. Richard James;male;35.0;2;0;0;105000.0;239;Chrome;Cornwall;Yes
+Smith, Miss. Marion Elsie;female;40.0;2;0;0;130000.0;256;Chrome;;No
+Sobey, Mr. Samuel James Hayden;male;25.0;2;0;0;130000.0;249;Chrome;Cornwall / Houghton, MI;Yes
+Stanton, Mr. Samuel Ward;male;41.0;2;0;0;150458.0;74;Internet Explorer;New York, NY;Yes
+Stokes, Mr. Philip Joseph;male;25.0;2;0;0;105000.0;160;Chrome;Catford, Kent / Detroit, MI;Yes
+Swane, Mr. George;male;18.5;2;0;0;130000.0;183;Chrome;;Yes
+Sweet, Mr. George Frederick;male;14.0;2;0;0;650000.0;17;Chrome;Somerset / Bernardsville, NJ;Yes
+Toomey, Miss. Ellen;female;50.0;2;0;0;105000.0;202;Chrome;Indianapolis, IN;No
+Troupiansky, Mr. Moses Aaron;male;23.0;2;0;0;130000.0;99;Chrome;;Yes
+Trout, Mrs. William H (Jessie L);female;28.0;2;0;0;126500.0;168;Chrome;Columbus, OH;No
+"Troutt, Miss. Edwina Celia ""Winnie""";female;27.0;2;0;0;105000.0;184;Chrome;Bath, England / Massachusetts;No
+Turpin, Mr. William John Robert;male;29.0;2;1;0;210000.0;114;Chrome;Plymouth, England;Yes
+Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott);female;27.0;2;1;0;210000.0;73;Chrome;Plymouth, England;Yes
+Veal, Mr. James;male;40.0;2;0;0;130000.0;82;Chrome;Barre, Co Washington, VT;Yes
+Walcroft, Miss. Nellie;female;31.0;2;0;0;210000.0;250;Chrome;Mamaroneck, NY;No
+Ware, Mr. John James;male;30.0;2;1;0;210000.0;115;Chrome;Bristol, England / New Britain, CT;Yes
+Ware, Mr. William Jeffery;male;23.0;2;1;0;105000.0;218;Chrome;;Yes
+Ware, Mrs. John James (Florence Louise Long);female;31.0;2;0;0;210000.0;143;Chrome;Bristol, England / New Britain, CT;No
+Watson, Mr. Ennis Hastings;male;;2;0;0;0.0;83;Chrome;Belfast;Yes
+Watt, Miss. Bertha J;female;12.0;2;0;0;157500.0;43;Chrome;Aberdeen / Portland, OR;No
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)";female;40.0;2;0;0;157500.0;66;Chrome;Aberdeen / Portland, OR;No
+Webber, Miss. Susan;female;32.5;2;0;0;130000.0;172;Chrome;England / Hartford, CT;No
+Weisz, Mr. Leopold;male;27.0;2;1;0;260000.0;189;Chrome;Bromsgrove, England / Montreal, PQ;Yes
+Weisz, Mrs. Leopold (Mathilde Francoise Pede);female;29.0;2;1;0;260000.0;111;Chrome;Bromsgrove, England / Montreal, PQ;No
+Wells, Master. Ralph Lester;male;2.0;2;1;1;230000.0;250;Chrome;Cornwall / Akron, OH;No
+Wells, Miss. Joan;female;4.0;2;1;1;230000.0;232;Chrome;Cornwall / Akron, OH;No
+"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)";female;29.0;2;0;2;230000.0;61;Chrome;Cornwall / Akron, OH;No
+West, Miss. Barbara J;female;0.9167;2;1;2;277500.0;29;Chrome;Bournmouth, England;No
+West, Miss. Constance Mirium;female;5.0;2;1;2;277500.0;201;Chrome;Bournmouth, England;No
+West, Mr. Edwy Arthur;male;36.0;2;1;2;277500.0;240;Chrome;Bournmouth, England;Yes
+West, Mrs. Edwy Arthur (Ada Mary Worth);female;33.0;2;1;2;277500.0;217;Chrome;Bournmouth, England;No
+Wheadon, Mr. Edward H;male;66.0;2;0;0;105000.0;31;Chrome;Guernsey, England / Edgewood, RI;Yes
+"Wheeler, Mr. Edwin ""Frederick""";male;;2;0;0;128750.0;47;Chrome;;Yes
+Wilhelms, Mr. Charles;male;31.0;2;0;0;130000.0;86;Chrome;London, England;No
+Williams, Mr. Charles Eugene;male;;2;0;0;130000.0;70;Chrome;Harrow, England;No
+Wright, Miss. Marion;female;26.0;2;0;0;135000.0;54;Chrome;Yoevil, England / Cottage Grove, OR;No
+"Yrois, Miss. Henriette (""Mrs Harbeck"")";female;24.0;2;0;0;130000.0;65;Chrome;Paris;Yes
+Abbing, Mr. Anthony;male;42.0;3;0;0;75500.0;244;Chrome;;Yes
+Abbott, Master. Eugene Joseph;male;13.0;3;0;2;202500.0;185;Chrome;East Providence, RI;Yes
+Abbott, Mr. Rossmore Edward;male;16.0;3;1;1;202500.0;7;Chrome;East Providence, RI;Yes
+Abbott, Mrs. Stanton (Rosa Hunt);female;35.0;3;1;1;202500.0;39;Chrome;East Providence, RI;No
+Abelseth, Miss. Karen Marie;female;16.0;3;0;0;76500.0;133;Chrome;Norway Los Angeles, CA;No
+Abelseth, Mr. Olaus Jorgensen;male;25.0;3;0;0;76500.0;66;Chrome;Perkins County, SD;No
+Abrahamsson, Mr. Abraham August Johannes;male;20.0;3;0;0;79250.0;35;Chrome;Taalintehdas, Finland Hoboken, NJ;No
+Abrahim, Mrs. Joseph (Sophie Halaut Easu);female;18.0;3;0;0;72292.0;35;Internet Explorer;Greensburg, PA;No
+Adahl, Mr. Mauritz Nils Martin;male;30.0;3;0;0;72500.0;43;Chrome;Asarum, Sweden Brooklyn, NY;Yes
+Adams, Mr. John;male;26.0;3;0;0;80500.0;45;Chrome;Bournemouth, England;Yes
+Ahlin, Mrs. Johan (Johanna Persdotter Larsson);female;40.0;3;1;0;94750.0;213;Chrome;Sweden Akeley, MN;Yes
+Aks, Master. Philip Frank;male;0.8333;3;0;1;93500.0;166;Chrome;London, England Norfolk, VA;No
+Aks, Mrs. Sam (Leah Rosen);female;18.0;3;0;1;93500.0;1;Chrome;London, England Norfolk, VA;No
+Albimona, Mr. Nassef Cassem;male;26.0;3;0;0;187875.0;51;Internet Explorer;Syria Fredericksburg, VA;No
+Alexander, Mr. William;male;26.0;3;0;0;78875.0;167;Chrome;England Albion, NY;Yes
+Alhomaki, Mr. Ilmari Rudolf;male;20.0;3;0;0;79250.0;175;Chrome;Salo, Finland Astoria, OR;Yes
+Ali, Mr. Ahmed;male;24.0;3;0;0;70500.0;80;Chrome;;Yes
+Ali, Mr. William;male;25.0;3;0;0;70500.0;178;Chrome;Argentina;Yes
+Allen, Mr. William Henry;male;35.0;3;0;0;80500.0;97;Chrome;Lower Clapton, Middlesex or Erdington, Birmingham;Yes
+Allum, Mr. Owen George;male;18.0;3;0;0;83000.0;191;Chrome;Windsor, England New York, NY;Yes
+Andersen, Mr. Albert Karvin;male;32.0;3;0;0;225250.0;133;Chrome;Bergen, Norway;Yes
+Andersen-Jensen, Miss. Carla Christine Nielsine;female;19.0;3;1;0;78542.0;206;Chrome;;No
+Andersson, Master. Sigvard Harald Elias;male;4.0;3;4;2;312750.0;178;Chrome;Sweden Winnipeg, MN;Yes
+Andersson, Miss. Ebba Iris Alfrida;female;6.0;3;4;2;312750.0;104;Chrome;Sweden Winnipeg, MN;Yes
+Andersson, Miss. Ellis Anna Maria;female;2.0;3;4;2;312750.0;173;Chrome;Sweden Winnipeg, MN;Yes
+Andersson, Miss. Erna Alexandra;female;17.0;3;4;2;79250.0;51;Chrome;Ruotsinphyhtaa, Finland New York, NY;No
+Andersson, Miss. Ida Augusta Margareta;female;38.0;3;4;2;77750.0;12;Chrome;Vadsbro, Sweden Ministee, MI;Yes
+Andersson, Miss. Ingeborg Constanzia;female;9.0;3;4;2;312750.0;141;Chrome;Sweden Winnipeg, MN;Yes
+Andersson, Miss. Sigrid Elisabeth;female;11.0;3;4;2;312750.0;53;Chrome;Sweden Winnipeg, MN;Yes
+Andersson, Mr. Anders Johan;male;39.0;3;1;5;312750.0;129;Chrome;Sweden Winnipeg, MN;Yes
+"Andersson, Mr. August Edvard (""Wennerstrom"")";male;27.0;3;0;0;77958.0;58;Chrome;;No
+Andersson, Mr. Johan Samuel;male;26.0;3;0;0;77750.0;108;Chrome;Hartford, CT;Yes
+Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren);female;39.0;3;1;5;312750.0;68;Chrome;Sweden Winnipeg, MN;Yes
+Andreasson, Mr. Paul Edvin;male;20.0;3;0;0;78542.0;147;Chrome;Sweden Chicago, IL;Yes
+Angheloff, Mr. Minko;male;26.0;3;0;0;78958.0;203;Chrome;Bulgaria Chicago, IL;Yes
+Arnold-Franchi, Mr. Josef;male;25.0;3;1;0;178000.0;232;Chrome;Altdorf, Switzerland;Yes
+Arnold-Franchi, Mrs. Josef (Josefine Franchi);female;18.0;3;1;0;178000.0;232;Chrome;Altdorf, Switzerland;Yes
+Aronsson, Mr. Ernst Axel Algot;male;24.0;3;0;0;77750.0;223;Chrome;Sweden Joliet, IL;Yes
+Asim, Mr. Adola;male;35.0;3;0;0;70500.0;161;Chrome;;Yes
+Asplund, Master. Carl Edgar;male;5.0;3;4;2;313875.0;181;Chrome;Sweden  Worcester, MA;Yes
+Asplund, Master. Clarence Gustaf Hugo;male;9.0;3;4;2;313875.0;162;Chrome;Sweden Worcester, MA;Yes
+Asplund, Master. Edvin Rojj Felix;male;3.0;3;4;2;313875.0;140;Chrome;Sweden Worcester, MA;No
+Asplund, Master. Filip Oscar;male;13.0;3;4;2;313875.0;133;Chrome;Sweden Worcester, MA;Yes
+Asplund, Miss. Lillian Gertrud;female;5.0;3;4;2;313875.0;238;Chrome;Sweden Worcester, MA;No
+Asplund, Mr. Carl Oscar Vilhelm Gustafsson;male;40.0;3;1;5;313875.0;214;Chrome;Sweden  Worcester, MA;Yes
+Asplund, Mr. Johan Charles;male;23.0;3;0;0;77958.0;17;Chrome;Oskarshamn, Sweden Minneapolis, MN;No
+Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson);female;38.0;3;1;5;313875.0;160;Chrome;Sweden  Worcester, MA;No
+"Assaf Khalil, Mrs. Mariana (""Miriam"")";female;45.0;3;0;0;72250.0;239;Internet Explorer;Ottawa, ON;No
+Assaf, Mr. Gerios;male;21.0;3;0;0;72250.0;9;Internet Explorer;Ottawa, ON;Yes
+Assam, Mr. Ali;male;23.0;3;0;0;70500.0;150;Chrome;;Yes
+Attalah, Miss. Malake;female;17.0;3;0;0;144583.0;128;Internet Explorer;;Yes
+Attalah, Mr. Sleiman;male;30.0;3;0;0;72250.0;89;Internet Explorer;Ottawa, ON;Yes
+Augustsson, Mr. Albert;male;23.0;3;0;0;78542.0;184;Chrome;Krakoryd, Sweden Bloomington, IL;Yes
+Ayoub, Miss. Banoura;female;13.0;3;0;0;72292.0;107;Internet Explorer;Syria Youngstown, OH;No
+Baccos, Mr. Raffull;male;20.0;3;0;0;72250.0;220;Internet Explorer;;Yes
+Backstrom, Mr. Karl Alfred;male;32.0;3;1;0;158500.0;16;Chrome;Ruotsinphytaa, Finland New York, NY;Yes
+Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson);female;33.0;3;3;0;158500.0;177;Chrome;Ruotsinphytaa, Finland New York, NY;No
+Baclini, Miss. Eugenie;female;0.75;3;2;1;192583.0;179;Internet Explorer;Syria New York, NY;No
+Baclini, Miss. Helene Barbara;female;0.75;3;2;1;192583.0;232;Internet Explorer;Syria New York, NY;No
+Baclini, Miss. Marie Catherine;female;5.0;3;2;1;192583.0;211;Internet Explorer;Syria New York, NY;No
+Baclini, Mrs. Solomon (Latifa Qurban);female;24.0;3;0;3;192583.0;191;Internet Explorer;Syria New York, NY;No
+Badman, Miss. Emily Louisa;female;18.0;3;0;0;80500.0;148;Chrome;London Skanteales, NY;No
+Badt, Mr. Mohamed;male;40.0;3;0;0;72250.0;84;Internet Explorer;;Yes
+Balkic, Mr. Cerin;male;26.0;3;0;0;78958.0;181;Chrome;;Yes
+Barah, Mr. Hanna Assi;male;20.0;3;0;0;72292.0;133;Internet Explorer;;No
+Barbara, Miss. Saiide;female;18.0;3;0;1;144542.0;38;Internet Explorer;Syria Ottawa, ON;Yes
+Barbara, Mrs. (Catherine David);female;45.0;3;0;1;144542.0;35;Internet Explorer;Syria Ottawa, ON;Yes
+Barry, Miss. Julia;female;27.0;3;0;0;78792.0;64;Firefox;New York, NY;Yes
+Barton, Mr. David John;male;22.0;3;0;0;80500.0;71;Chrome;England New York, NY;Yes
+Beavan, Mr. William Thomas;male;19.0;3;0;0;80500.0;26;Chrome;England;Yes
+Bengtsson, Mr. John Viktor;male;26.0;3;0;0;77750.0;116;Chrome;Krakudden, Sweden Moune, IL;Yes
+Berglund, Mr. Karl Ivar Sven;male;22.0;3;0;0;93500.0;186;Chrome;Tranvik, Finland New York;Yes
+Betros, Master. Seman;male;;3;0;0;72292.0;159;Internet Explorer;;Yes
+Betros, Mr. Tannous;male;20.0;3;0;0;40125.0;55;Internet Explorer;Syria;Yes
+Bing, Mr. Lee;male;32.0;3;0;0;564958.0;4;Chrome;Hong Kong New York, NY;No
+Birkeland, Mr. Hans Martin Monsen;male;21.0;3;0;0;77750.0;115;Chrome;Brennes, Norway New York;Yes
+Bjorklund, Mr. Ernst Herbert;male;18.0;3;0;0;77500.0;72;Chrome;Stockholm, Sweden New York;Yes
+Bostandyeff, Mr. Guentcho;male;26.0;3;0;0;78958.0;41;Chrome;Bulgaria Chicago, IL;Yes
+Boulos, Master. Akar;male;6.0;3;1;1;152458.0;241;Internet Explorer;Syria Kent, ON;Yes
+Boulos, Miss. Nourelain;female;9.0;3;1;1;152458.0;148;Internet Explorer;Syria Kent, ON;Yes
+Boulos, Mr. Hanna;male;;3;0;0;72250.0;193;Internet Explorer;Syria;Yes
+Boulos, Mrs. Joseph (Sultana);female;;3;0;2;152458.0;109;Internet Explorer;Syria Kent, ON;Yes
+Bourke, Miss. Mary;female;;3;0;2;77500.0;47;Firefox;Ireland Chicago, IL;Yes
+Bourke, Mr. John;male;40.0;3;1;1;155000.0;58;Firefox;Ireland Chicago, IL;Yes
+Bourke, Mrs. John (Catherine);female;32.0;3;1;1;155000.0;58;Firefox;Ireland Chicago, IL;Yes
+"Bowen, Mr. David John ""Dai""";male;21.0;3;0;0;161000.0;164;Chrome;Treherbert, Cardiff, Wales;Yes
+Bradley, Miss. Bridget Delia;female;22.0;3;0;0;77250.0;42;Firefox;Kingwilliamstown, Co Cork, Ireland Glens Falls, NY;No
+Braf, Miss. Elin Ester Maria;female;20.0;3;0;0;78542.0;128;Chrome;Medeltorp, Sweden Chicago, IL;Yes
+Braund, Mr. Lewis Richard;male;29.0;3;1;0;70458.0;119;Chrome;Bridgerule, Devon;Yes
+Braund, Mr. Owen Harris;male;22.0;3;1;0;72500.0;254;Chrome;Bridgerule, Devon;Yes
+Brobeck, Mr. Karl Rudolf;male;22.0;3;0;0;77958.0;221;Chrome;Sweden Worcester, MA;Yes
+Brocklebank, Mr. William Alfred;male;35.0;3;0;0;80500.0;118;Chrome;Broomfield, Chelmsford, England;Yes
+Buckley, Miss. Katherine;female;18.5;3;0;0;72833.0;212;Firefox;Co Cork, Ireland Roxbury, MA;Yes
+Buckley, Mr. Daniel;male;21.0;3;0;0;78208.0;250;Firefox;Kingwilliamstown, Co Cork, Ireland New York, NY;No
+Burke, Mr. Jeremiah;male;19.0;3;0;0;67500.0;35;Firefox;Co Cork, Ireland Charlestown, MA;Yes
+Burns, Miss. Mary Delia;female;18.0;3;0;0;78792.0;142;Firefox;Co Sligo, Ireland New York, NY;Yes
+Cacic, Miss. Manda;female;21.0;3;0;0;86625.0;71;Chrome;;Yes
+Cacic, Miss. Marija;female;30.0;3;0;0;86625.0;221;Chrome;;Yes
+Cacic, Mr. Jego Grga;male;18.0;3;0;0;86625.0;143;Chrome;;Yes
+Cacic, Mr. Luka;male;38.0;3;0;0;86625.0;151;Chrome;Croatia;Yes
+Calic, Mr. Jovo;male;17.0;3;0;0;86625.0;221;Chrome;;Yes
+Calic, Mr. Petar;male;17.0;3;0;0;86625.0;88;Chrome;;Yes
+Canavan, Miss. Mary;female;21.0;3;0;0;77500.0;53;Firefox;;Yes
+Canavan, Mr. Patrick;male;21.0;3;0;0;77500.0;129;Firefox;Ireland Philadelphia, PA;Yes
+Cann, Mr. Ernest Charles;male;21.0;3;0;0;80500.0;169;Chrome;;Yes
+Caram, Mr. Joseph;male;;3;1;0;144583.0;6;Internet Explorer;Ottawa, ON;Yes
+Caram, Mrs. Joseph (Maria Elias);female;;3;1;0;144583.0;105;Internet Explorer;Ottawa, ON;Yes
+Carlsson, Mr. August Sigfrid;male;28.0;3;0;0;77958.0;83;Chrome;Dagsas, Sweden Fower, MN;Yes
+Carlsson, Mr. Carl Robert;male;24.0;3;0;0;78542.0;176;Chrome;Goteborg, Sweden Huntley, IL;Yes
+"Carr, Miss. Helen ""Ellen""";female;16.0;3;0;0;77500.0;107;Firefox;Co Longford, Ireland New York, NY;No
+Carr, Miss. Jeannie;female;37.0;3;0;0;77500.0;149;Firefox;Co Sligo, Ireland Hartford, CT;Yes
+Carver, Mr. Alfred John;male;28.0;3;0;0;72500.0;178;Chrome;St Denys, Southampton, Hants;Yes
+Celotti, Mr. Francesco;male;24.0;3;0;0;80500.0;1;Chrome;London;Yes
+Charters, Mr. David;male;21.0;3;0;0;77333.0;93;Firefox;Ireland New York, NY;Yes
+Chip, Mr. Chang;male;32.0;3;0;0;564958.0;208;Chrome;Hong Kong New York, NY;No
+Christmann, Mr. Emil;male;29.0;3;0;0;80500.0;209;Chrome;;Yes
+Chronopoulos, Mr. Apostolos;male;26.0;3;1;0;144542.0;151;Internet Explorer;Greece;Yes
+Chronopoulos, Mr. Demetrios;male;18.0;3;1;0;144542.0;4;Internet Explorer;Greece;Yes
+Coelho, Mr. Domingos Fernandeo;male;20.0;3;0;0;70500.0;242;Chrome;Portugal;Yes
+"Cohen, Mr. Gurshon ""Gus""";male;18.0;3;0;0;80500.0;184;Chrome;London Brooklyn, NY;No
+Colbert, Mr. Patrick;male;24.0;3;0;0;72500.0;111;Firefox;Co Limerick, Ireland Sherbrooke, PQ;Yes
+Coleff, Mr. Peju;male;36.0;3;0;0;74958.0;70;Chrome;Bulgaria Chicago, IL;Yes
+Coleff, Mr. Satio;male;24.0;3;0;0;74958.0;112;Chrome;;Yes
+Conlon, Mr. Thomas Henry;male;31.0;3;0;0;77333.0;31;Firefox;Philadelphia, PA;Yes
+Connaghton, Mr. Michael;male;31.0;3;0;0;77500.0;3;Firefox;Ireland Brooklyn, NY;Yes
+Connolly, Miss. Kate;female;22.0;3;0;0;77500.0;160;Firefox;Ireland;No
+Connolly, Miss. Kate;female;30.0;3;0;0;76292.0;124;Firefox;Ireland;Yes
+Connors, Mr. Patrick;male;70.5;3;0;0;77500.0;254;Firefox;;Yes
+Cook, Mr. Jacob;male;43.0;3;0;0;80500.0;116;Chrome;;Yes
+Cor, Mr. Bartol;male;35.0;3;0;0;78958.0;138;Chrome;Austria;Yes
+Cor, Mr. Ivan;male;27.0;3;0;0;78958.0;69;Chrome;Austria;Yes
+Cor, Mr. Liudevit;male;19.0;3;0;0;78958.0;236;Chrome;Austria;Yes
+Corn, Mr. Harry;male;30.0;3;0;0;80500.0;26;Chrome;London;Yes
+"Coutts, Master. Eden Leslie ""Neville""";male;9.0;3;1;1;159000.0;226;Chrome;England Brooklyn, NY;No
+"Coutts, Master. William Loch ""William""";male;3.0;3;1;1;159000.0;52;Chrome;England Brooklyn, NY;No
+"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)";female;36.0;3;0;2;159000.0;48;Chrome;England Brooklyn, NY;No
+Coxon, Mr. Daniel;male;59.0;3;0;0;72500.0;181;Chrome;Merrill, WI;Yes
+Crease, Mr. Ernest James;male;19.0;3;0;0;81583.0;117;Chrome;Bristol, England Cleveland, OH;Yes
+Cribb, Miss. Laura Alice;female;17.0;3;0;1;161000.0;165;Chrome;Bournemouth, England Newark, NJ;No
+Cribb, Mr. John Hatfield;male;44.0;3;0;1;161000.0;156;Chrome;Bournemouth, England Newark, NJ;Yes
+Culumovic, Mr. Jeso;male;17.0;3;0;0;86625.0;106;Chrome;Austria-Hungary;Yes
+Daher, Mr. Shedid;male;22.5;3;0;0;72250.0;132;Internet Explorer;;Yes
+Dahl, Mr. Karl Edwart;male;45.0;3;0;0;80500.0;57;Chrome;Australia Fingal, ND;No
+Dahlberg, Miss. Gerda Ulrika;female;22.0;3;0;0;105167.0;154;Chrome;Norrlot, Sweden Chicago, IL;Yes
+Dakic, Mr. Branko;male;19.0;3;0;0;101708.0;7;Chrome;Austria;Yes
+"Daly, Miss. Margaret Marcella ""Maggie""";female;30.0;3;0;0;69500.0;126;Firefox;Co Athlone, Ireland New York, NY;No
+Daly, Mr. Eugene Patrick;male;29.0;3;0;0;77500.0;29;Firefox;Co Athlone, Ireland New York, NY;No
+Danbom, Master. Gilbert Sigvard Emanuel;male;0.3333;3;0;2;144000.0;21;Chrome;Stanton, IA;Yes
+Danbom, Mr. Ernst Gilbert;male;34.0;3;1;1;144000.0;161;Chrome;Stanton, IA;Yes
+Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren);female;28.0;3;1;1;144000.0;36;Chrome;Stanton, IA;Yes
+Danoff, Mr. Yoto;male;27.0;3;0;0;78958.0;92;Chrome;Bulgaria Chicago, IL;Yes
+Dantcheff, Mr. Ristiu;male;25.0;3;0;0;78958.0;177;Chrome;Bulgaria Chicago, IL;Yes
+Davies, Mr. Alfred J;male;24.0;3;2;0;241500.0;244;Chrome;West Bromwich, England Pontiac, MI;Yes
+Davies, Mr. Evan;male;22.0;3;0;0;80500.0;41;Chrome;;Yes
+Davies, Mr. John Samuel;male;21.0;3;2;0;241500.0;124;Chrome;West Bromwich, England Pontiac, MI;Yes
+Davies, Mr. Joseph;male;17.0;3;2;0;80500.0;180;Chrome;West Bromwich, England Pontiac, MI;Yes
+Davison, Mr. Thomas Henry;male;;3;1;0;161000.0;100;Chrome;Liverpool, England Bedford, OH;Yes
+Davison, Mrs. Thomas Henry (Mary E Finck);female;;3;1;0;161000.0;132;Chrome;Liverpool, England Bedford, OH;No
+de Messemaeker, Mr. Guillaume Joseph;male;36.5;3;1;0;174000.0;64;Chrome;Tampico, MT;No
+de Messemaeker, Mrs. Guillaume Joseph (Emma);female;36.0;3;1;0;174000.0;218;Chrome;Tampico, MT;No
+de Mulder, Mr. Theodore;male;30.0;3;0;0;95000.0;185;Chrome;Belgium Detroit, MI;No
+de Pelsmaeker, Mr. Alfons;male;16.0;3;0;0;95000.0;67;Chrome;;Yes
+Dean, Master. Bertram Vere;male;1.0;3;1;2;205750.0;174;Chrome;Devon, England Wichita, KS;No
+"Dean, Miss. Elizabeth Gladys ""Millvina""";female;0.1667;3;1;2;205750.0;236;Chrome;Devon, England Wichita, KS;No
+Dean, Mr. Bertram Frank;male;26.0;3;1;2;205750.0;10;Chrome;Devon, England Wichita, KS;Yes
+Dean, Mrs. Bertram (Eva Georgetta Light);female;33.0;3;1;2;205750.0;87;Chrome;Devon, England Wichita, KS;No
+Delalic, Mr. Redjo;male;25.0;3;0;0;78958.0;230;Chrome;;Yes
+Demetri, Mr. Marinko;male;;3;0;0;78958.0;185;Chrome;;Yes
+Denkoff, Mr. Mitto;male;;3;0;0;78958.0;123;Chrome;Bulgaria Coon Rapids, IA;Yes
+Dennis, Mr. Samuel;male;22.0;3;0;0;72500.0;41;Chrome;;Yes
+Dennis, Mr. William;male;36.0;3;0;0;72500.0;178;Chrome;;Yes
+Devaney, Miss. Margaret Delia;female;19.0;3;0;0;78792.0;112;Firefox;Kilmacowen, Co Sligo, Ireland New York, NY;No
+Dika, Mr. Mirko;male;17.0;3;0;0;78958.0;220;Chrome;;Yes
+Dimic, Mr. Jovan;male;42.0;3;0;0;86625.0;198;Chrome;;Yes
+Dintcheff, Mr. Valtcho;male;43.0;3;0;0;78958.0;10;Chrome;;Yes
+Doharr, Mr. Tannous;male;;3;0;0;72292.0;115;Internet Explorer;;Yes
+Dooley, Mr. Patrick;male;32.0;3;0;0;77500.0;156;Firefox;Ireland New York, NY;Yes
+Dorking, Mr. Edward Arthur;male;19.0;3;0;0;80500.0;25;Chrome;England Oglesby, IL;No
+Dowdell, Miss. Elizabeth;female;30.0;3;0;0;124750.0;164;Chrome;Union Hill, NJ;No
+Doyle, Miss. Elizabeth;female;24.0;3;0;0;77500.0;45;Firefox;Ireland New York, NY;Yes
+Drapkin, Miss. Jennie;female;23.0;3;0;0;80500.0;25;Chrome;London New York, NY;No
+Drazenoic, Mr. Jozef;male;33.0;3;0;0;78958.0;187;Internet Explorer;Austria Niagara Falls, NY;Yes
+Duane, Mr. Frank;male;65.0;3;0;0;77500.0;235;Firefox;;Yes
+Duquemin, Mr. Joseph;male;24.0;3;0;0;75500.0;220;Chrome;England Albion, NY;No
+Dyker, Mr. Adolf Fredrik;male;23.0;3;1;0;139000.0;29;Chrome;West Haven, CT;Yes
+Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson);female;22.0;3;1;0;139000.0;153;Chrome;West Haven, CT;No
+Edvardsson, Mr. Gustaf Hjalmar;male;18.0;3;0;0;77750.0;232;Chrome;Tofta, Sweden Joliet, IL;Yes
+Eklund, Mr. Hans Linus;male;16.0;3;0;0;77750.0;48;Chrome;Karberg, Sweden Jerome Junction, AZ;Yes
+Ekstrom, Mr. Johan;male;45.0;3;0;0;69750.0;230;Chrome;Effington Rut, SD;Yes
+Elias, Mr. Dibo;male;;3;0;0;72250.0;50;Internet Explorer;;Yes
+Elias, Mr. Joseph;male;39.0;3;0;2;72292.0;71;Internet Explorer;Syria Ottawa, ON;Yes
+Elias, Mr. Joseph Jr;male;17.0;3;1;1;72292.0;245;Internet Explorer;;Yes
+Elias, Mr. Tannous;male;15.0;3;1;1;72292.0;117;Internet Explorer;Syria;Yes
+Elsbury, Mr. William James;male;47.0;3;0;0;72500.0;32;Chrome;Illinois, USA;Yes
+Emanuel, Miss. Virginia Ethel;female;5.0;3;0;0;124750.0;52;Chrome;New York, NY;No
+Emir, Mr. Farred Chehab;male;;3;0;0;72250.0;251;Internet Explorer;;Yes
+Everett, Mr. Thomas James;male;40.5;3;0;0;151000.0;30;Chrome;;Yes
+Farrell, Mr. James;male;40.5;3;0;0;77500.0;147;Firefox;Aughnacliff, Co Longford, Ireland New York, NY;Yes
+Finoli, Mr. Luigi;male;;3;0;0;70500.0;159;Chrome;Italy Philadelphia, PA;No
+Fischer, Mr. Eberhard Thelander;male;18.0;3;0;0;77958.0;162;Chrome;;Yes
+Fleming, Miss. Honora;female;;3;0;0;77500.0;31;Firefox;;Yes
+Flynn, Mr. James;male;;3;0;0;77500.0;221;Firefox;;Yes
+Flynn, Mr. John;male;;3;0;0;69500.0;188;Firefox;;Yes
+Foley, Mr. Joseph;male;26.0;3;0;0;78792.0;193;Firefox;Ireland Chicago, IL;Yes
+Foley, Mr. William;male;;3;0;0;77500.0;52;Firefox;Ireland;Yes
+Foo, Mr. Choong;male;;3;0;0;564958.0;18;Chrome;Hong Kong New York, NY;No
+"Ford, Miss. Doolina Margaret ""Daisy""";female;21.0;3;2;2;343750.0;30;Chrome;Rotherfield, Sussex, England Essex Co, MA;Yes
+"Ford, Miss. Robina Maggie ""Ruby""";female;9.0;3;2;2;343750.0;186;Chrome;Rotherfield, Sussex, England Essex Co, MA;Yes
+Ford, Mr. Arthur;male;;3;0;0;80500.0;100;Chrome;Bridgwater, Somerset, England;Yes
+Ford, Mr. Edward Watson;male;18.0;3;2;2;343750.0;106;Chrome;Rotherfield, Sussex, England Essex Co, MA;Yes
+Ford, Mr. William Neal;male;16.0;3;1;3;343750.0;2;Chrome;Rotherfield, Sussex, England Essex Co, MA;Yes
+Ford, Mrs. Edward (Margaret Ann Watson);female;48.0;3;1;3;343750.0;11;Chrome;Rotherfield, Sussex, England Essex Co, MA;Yes
+Fox, Mr. Patrick;male;;3;0;0;77500.0;164;Firefox;Ireland New York, NY;Yes
+Franklin, Mr. Charles (Charles Fardon);male;;3;0;0;72500.0;213;Chrome;;Yes
+Gallagher, Mr. Martin;male;25.0;3;0;0;77417.0;95;Firefox;New York, NY;Yes
+Garfirth, Mr. John;male;;3;0;0;145000.0;181;Chrome;;Yes
+Gheorgheff, Mr. Stanio;male;;3;0;0;78958.0;31;Internet Explorer;;Yes
+Gilinski, Mr. Eliezer;male;22.0;3;0;0;80500.0;100;Chrome;;Yes
+"Gilnagh, Miss. Katherine ""Katie""";female;16.0;3;0;0;77333.0;97;Firefox;Co Longford, Ireland New York, NY;No
+Glynn, Miss. Mary Agatha;female;;3;0;0;77500.0;110;Firefox;Co Clare, Ireland Washington, DC;No
+"Goldsmith, Master. Frank John William ""Frankie""";male;9.0;3;0;2;205250.0;240;Chrome;Strood, Kent, England Detroit, MI;No
+Goldsmith, Mr. Frank John;male;33.0;3;1;1;205250.0;200;Chrome;Strood, Kent, England Detroit, MI;Yes
+Goldsmith, Mr. Nathan;male;41.0;3;0;0;78500.0;231;Chrome;Philadelphia, PA;Yes
+Goldsmith, Mrs. Frank John (Emily Alice Brown);female;31.0;3;1;1;205250.0;117;Chrome;Strood, Kent, England Detroit, MI;No
+Goncalves, Mr. Manuel Estanslas;male;38.0;3;0;0;70500.0;81;Chrome;Portugal;Yes
+Goodwin, Master. Harold Victor;male;9.0;3;5;2;469000.0;113;Chrome;Wiltshire, England Niagara Falls, NY;Yes
+Goodwin, Master. Sidney Leonard;male;1.0;3;5;2;469000.0;8;Chrome;Wiltshire, England Niagara Falls, NY;Yes
+Goodwin, Master. William Frederick;male;11.0;3;5;2;469000.0;52;Chrome;Wiltshire, England Niagara Falls, NY;Yes
+Goodwin, Miss. Jessie Allis;female;10.0;3;5;2;469000.0;165;Chrome;Wiltshire, England Niagara Falls, NY;Yes
+Goodwin, Miss. Lillian Amy;female;16.0;3;5;2;469000.0;126;Chrome;Wiltshire, England Niagara Falls, NY;Yes
+Goodwin, Mr. Charles Edward;male;14.0;3;5;2;469000.0;163;Chrome;Wiltshire, England Niagara Falls, NY;Yes
+Goodwin, Mr. Charles Frederick;male;40.0;3;1;6;469000.0;79;Chrome;Wiltshire, England Niagara Falls, NY;Yes
+Goodwin, Mrs. Frederick (Augusta Tyler);female;43.0;3;1;6;469000.0;148;Chrome;Wiltshire, England Niagara Falls, NY;Yes
+Green, Mr. George Henry;male;51.0;3;0;0;80500.0;26;Chrome;Dorking, Surrey, England;Yes
+Gronnestad, Mr. Daniel Danielsen;male;32.0;3;0;0;83625.0;236;Chrome;Foresvik, Norway Portland, ND;Yes
+Guest, Mr. Robert;male;;3;0;0;80500.0;169;Chrome;;Yes
+Gustafsson, Mr. Alfred Ossian;male;20.0;3;0;0;98458.0;174;Chrome;Waukegan, Chicago, IL;Yes
+Gustafsson, Mr. Anders Vilhelm;male;37.0;3;2;0;79250.0;34;Chrome;Ruotsinphytaa, Finland New York, NY;Yes
+Gustafsson, Mr. Johan Birger;male;28.0;3;2;0;79250.0;157;Chrome;Ruotsinphytaa, Finland New York, NY;Yes
+Gustafsson, Mr. Karl Gideon;male;19.0;3;0;0;77750.0;233;Chrome;Myren, Sweden New York, NY;Yes
+Haas, Miss. Aloisia;female;24.0;3;0;0;88500.0;109;Chrome;;Yes
+Hagardon, Miss. Kate;female;17.0;3;0;0;77333.0;4;Firefox;;Yes
+Hagland, Mr. Ingvald Olai Olsen;male;;3;1;0;199667.0;218;Chrome;;Yes
+Hagland, Mr. Konrad Mathias Reiersen;male;;3;1;0;199667.0;221;Chrome;;Yes
+Hakkarainen, Mr. Pekka Pietari;male;28.0;3;1;0;158500.0;116;Chrome;;Yes
+Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck);female;24.0;3;1;0;158500.0;236;Chrome;;No
+Hampe, Mr. Leon;male;20.0;3;0;0;95000.0;104;Chrome;;Yes
+Hanna, Mr. Mansour;male;23.5;3;0;0;72292.0;95;Internet Explorer;;Yes
+Hansen, Mr. Claus Peter;male;41.0;3;2;0;141083.0;117;Chrome;;Yes
+Hansen, Mr. Henrik Juul;male;26.0;3;1;0;78542.0;200;Chrome;;Yes
+Hansen, Mr. Henry Damsgaard;male;21.0;3;0;0;78542.0;219;Chrome;;Yes
+Hansen, Mrs. Claus Peter (Jennie L Howard);female;45.0;3;1;0;141083.0;119;Chrome;;No
+Harknett, Miss. Alice Phoebe;female;;3;0;0;75500.0;98;Chrome;;Yes
+Harmer, Mr. Abraham (David Lishin);male;25.0;3;0;0;72500.0;80;Chrome;;Yes
+Hart, Mr. Henry;male;;3;0;0;68583.0;53;Firefox;;Yes
+Hassan, Mr. Houssein G N;male;11.0;3;0;0;187875.0;10;Internet Explorer;;Yes
+"Healy, Miss. Hanora ""Nora""";female;;3;0;0;77500.0;25;Firefox;;No
+Hedman, Mr. Oskar Arvid;male;27.0;3;0;0;69750.0;105;Chrome;;No
+Hee, Mr. Ling;male;;3;0;0;564958.0;216;Chrome;;No
+"Hegarty, Miss. Hanora ""Nora""";female;18.0;3;0;0;67500.0;187;Firefox;;Yes
+Heikkinen, Miss. Laina;female;26.0;3;0;0;79250.0;207;Chrome;;No
+Heininen, Miss. Wendla Maria;female;23.0;3;0;0;79250.0;203;Chrome;;Yes
+Hellstrom, Miss. Hilda Maria;female;22.0;3;0;0;89625.0;10;Chrome;;No
+Hendekovic, Mr. Ignjac;male;28.0;3;0;0;78958.0;245;Chrome;;Yes
+Henriksson, Miss. Jenny Lovisa;female;28.0;3;0;0;77750.0;188;Chrome;;Yes
+Henry, Miss. Delia;female;;3;0;0;77500.0;190;Firefox;;Yes
+Hirvonen, Miss. Hildur E;female;2.0;3;0;1;122875.0;28;Chrome;;No
+Hirvonen, Mrs. Alexander (Helga E Lindqvist);female;22.0;3;1;1;122875.0;158;Chrome;;No
+Holm, Mr. John Fredrik Alexander;male;43.0;3;0;0;64500.0;38;Chrome;;Yes
+Holthen, Mr. Johan Martin;male;28.0;3;0;0;225250.0;6;Chrome;;Yes
+Honkanen, Miss. Eliina;female;27.0;3;0;0;79250.0;79;Chrome;;No
+Horgan, Mr. John;male;;3;0;0;77500.0;11;Firefox;;Yes
+Howard, Miss. May Elizabeth;female;;3;0;0;80500.0;253;Chrome;;No
+Humblen, Mr. Adolf Mathias Nicolai Olsen;male;42.0;3;0;0;76500.0;211;Chrome;;Yes
+Hyman, Mr. Abraham;male;;3;0;0;78875.0;168;Chrome;;No
+Ibrahim Shawah, Mr. Yousseff;male;30.0;3;0;0;72292.0;123;Internet Explorer;;Yes
+Ilieff, Mr. Ylio;male;;3;0;0;78958.0;198;Chrome;;Yes
+Ilmakangas, Miss. Ida Livija;female;27.0;3;1;0;79250.0;91;Chrome;;Yes
+Ilmakangas, Miss. Pieta Sofia;female;25.0;3;1;0;79250.0;54;Chrome;;Yes
+Ivanoff, Mr. Kanio;male;;3;0;0;78958.0;237;Chrome;;Yes
+Jalsevac, Mr. Ivan;male;29.0;3;0;0;78958.0;4;Internet Explorer;;No
+Jansson, Mr. Carl Olof;male;21.0;3;0;0;77958.0;104;Chrome;;No
+Jardin, Mr. Jose Neto;male;;3;0;0;70500.0;253;Chrome;;Yes
+Jensen, Mr. Hans Peder;male;20.0;3;0;0;78542.0;138;Chrome;;Yes
+Jensen, Mr. Niels Peder;male;48.0;3;0;0;78542.0;100;Chrome;;Yes
+Jensen, Mr. Svend Lauritz;male;17.0;3;1;0;70542.0;180;Chrome;;Yes
+Jermyn, Miss. Annie;female;;3;0;0;77500.0;52;Firefox;;No
+Johannesen-Bratthammer, Mr. Bernt;male;;3;0;0;81125.0;181;Chrome;;No
+Johanson, Mr. Jakob Alfred;male;34.0;3;0;0;64958.0;97;Chrome;;Yes
+Johansson Palmquist, Mr. Oskar Leander;male;26.0;3;0;0;77750.0;197;Chrome;;No
+Johansson, Mr. Erik;male;22.0;3;0;0;77958.0;95;Chrome;;Yes
+Johansson, Mr. Gustaf Joel;male;33.0;3;0;0;86542.0;204;Chrome;;Yes
+Johansson, Mr. Karl Johan;male;31.0;3;0;0;77750.0;236;Chrome;;Yes
+Johansson, Mr. Nils;male;29.0;3;0;0;78542.0;109;Chrome;;Yes
+Johnson, Master. Harold Theodor;male;4.0;3;1;1;111333.0;240;Chrome;;No
+Johnson, Miss. Eleanor Ileen;female;1.0;3;1;1;111333.0;187;Chrome;;No
+Johnson, Mr. Alfred;male;49.0;3;0;0;0.0;131;Chrome;;Yes
+Johnson, Mr. Malkolm Joackim;male;33.0;3;0;0;77750.0;122;Chrome;;Yes
+Johnson, Mr. William Cahoone Jr;male;19.0;3;0;0;0.0;141;Chrome;;Yes
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg);female;27.0;3;0;2;111333.0;229;Chrome;;No
+"Johnston, Master. William Arthur ""Willie""";male;;3;1;2;234500.0;172;Chrome;;Yes
+"Johnston, Miss. Catherine Helen ""Carrie""";female;;3;1;2;234500.0;161;Chrome;;Yes
+Johnston, Mr. Andrew G;male;;3;1;2;234500.0;243;Chrome;;Yes
+"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)";female;;3;1;2;234500.0;141;Chrome;;Yes
+Jonkoff, Mr. Lalio;male;23.0;3;0;0;78958.0;7;Chrome;;Yes
+Jonsson, Mr. Carl;male;32.0;3;0;0;78542.0;176;Chrome;;No
+Jonsson, Mr. Nils Hilding;male;27.0;3;0;0;78542.0;156;Chrome;;Yes
+Jussila, Miss. Katriina;female;20.0;3;1;0;98250.0;41;Chrome;;Yes
+Jussila, Miss. Mari Aina;female;21.0;3;1;0;98250.0;187;Chrome;;Yes
+Jussila, Mr. Eiriik;male;32.0;3;0;0;79250.0;132;Chrome;;No
+Kallio, Mr. Nikolai Erland;male;17.0;3;0;0;71250.0;209;Chrome;;Yes
+Kalvik, Mr. Johannes Halvorsen;male;21.0;3;0;0;84333.0;241;Chrome;;Yes
+Karaic, Mr. Milan;male;30.0;3;0;0;78958.0;147;Chrome;;Yes
+Karlsson, Mr. Einar Gervasius;male;21.0;3;0;0;77958.0;155;Chrome;;No
+Karlsson, Mr. Julius Konrad Eugen;male;33.0;3;0;0;78542.0;128;Chrome;;Yes
+Karlsson, Mr. Nils August;male;22.0;3;0;0;75208.0;16;Chrome;;Yes
+Karun, Miss. Manca;female;4.0;3;0;1;134167.0;24;Internet Explorer;;No
+Karun, Mr. Franz;male;39.0;3;0;1;134167.0;111;Internet Explorer;;No
+Kassem, Mr. Fared;male;;3;0;0;72292.0;207;Internet Explorer;;Yes
+"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")";male;18.5;3;0;0;72292.0;89;Internet Explorer;;Yes
+"Keane, Mr. Andrew ""Andy""";male;;3;0;0;77500.0;216;Firefox;;Yes
+Keefe, Mr. Arthur;male;;3;0;0;72500.0;38;Chrome;;Yes
+"Kelly, Miss. Anna Katherine ""Annie Kate""";female;;3;0;0;77500.0;254;Firefox;;No
+Kelly, Miss. Mary;female;;3;0;0;77500.0;247;Firefox;;No
+Kelly, Mr. James;male;34.5;3;0;0;78292.0;53;Firefox;;Yes
+Kelly, Mr. James;male;44.0;3;0;0;80500.0;240;Chrome;;Yes
+Kennedy, Mr. John;male;;3;0;0;77500.0;77;Firefox;;No
+Khalil, Mr. Betros;male;;3;1;0;144542.0;53;Internet Explorer;;Yes
+"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)";female;;3;1;0;144542.0;215;Internet Explorer;;Yes
+Kiernan, Mr. John;male;;3;1;0;77500.0;172;Firefox;;Yes
+Kiernan, Mr. Philip;male;;3;1;0;77500.0;161;Firefox;;Yes
+Kilgannon, Mr. Thomas J;male;;3;0;0;77375.0;73;Firefox;;Yes
+Kink, Miss. Maria;female;22.0;3;2;0;86625.0;30;Chrome;;Yes
+Kink, Mr. Vincenz;male;26.0;3;2;0;86625.0;67;Chrome;;Yes
+Kink-Heilmann, Miss. Luise Gretchen;female;4.0;3;0;2;220250.0;109;Chrome;;No
+Kink-Heilmann, Mr. Anton;male;29.0;3;3;1;220250.0;7;Chrome;;No
+Kink-Heilmann, Mrs. Anton (Luise Heilmann);female;26.0;3;1;1;220250.0;256;Chrome;;No
+Klasen, Miss. Gertrud Emilia;female;1.0;3;1;1;121833.0;18;Chrome;;Yes
+Klasen, Mr. Klas Albin;male;18.0;3;1;1;78542.0;173;Chrome;;Yes
+Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist);female;36.0;3;0;2;121833.0;1;Chrome;;Yes
+Kraeff, Mr. Theodor;male;;3;0;0;78958.0;53;Internet Explorer;;Yes
+Krekorian, Mr. Neshan;male;25.0;3;0;0;72292.0;232;Internet Explorer;;No
+Lahoud, Mr. Sarkis;male;;3;0;0;72250.0;194;Internet Explorer;;Yes
+Laitinen, Miss. Kristina Sofia;female;37.0;3;0;0;95875.0;38;Chrome;;Yes
+Laleff, Mr. Kristo;male;;3;0;0;78958.0;18;Chrome;;Yes
+Lam, Mr. Ali;male;;3;0;0;564958.0;40;Chrome;;No
+Lam, Mr. Len;male;;3;0;0;564958.0;213;Chrome;;Yes
+Landergren, Miss. Aurora Adelia;female;22.0;3;0;0;72500.0;36;Chrome;;No
+Lane, Mr. Patrick;male;;3;0;0;77500.0;125;Firefox;;Yes
+Lang, Mr. Fang;male;26.0;3;0;0;564958.0;240;Chrome;;No
+Larsson, Mr. August Viktor;male;29.0;3;0;0;94833.0;124;Chrome;;Yes
+Larsson, Mr. Bengt Edvin;male;29.0;3;0;0;77750.0;58;Chrome;;Yes
+Larsson-Rondberg, Mr. Edvard A;male;22.0;3;0;0;77750.0;218;Chrome;;Yes
+"Leeni, Mr. Fahim (""Philip Zenni"")";male;22.0;3;0;0;72250.0;246;Internet Explorer;;No
+Lefebre, Master. Henry Forbes;male;;3;3;1;254667.0;92;Chrome;;Yes
+Lefebre, Miss. Ida;female;;3;3;1;254667.0;34;Chrome;;Yes
+Lefebre, Miss. Jeannie;female;;3;3;1;254667.0;67;Chrome;;Yes
+Lefebre, Miss. Mathilde;female;;3;3;1;254667.0;76;Chrome;;Yes
+Lefebre, Mrs. Frank (Frances);female;;3;0;4;254667.0;213;Chrome;;Yes
+Leinonen, Mr. Antti Gustaf;male;32.0;3;0;0;79250.0;138;Chrome;;Yes
+Lemberopolous, Mr. Peter L;male;34.5;3;0;0;64375.0;114;Internet Explorer;;Yes
+Lennon, Miss. Mary;female;;3;1;0;155000.0;5;Firefox;;Yes
+Lennon, Mr. Denis;male;;3;1;0;155000.0;125;Firefox;;Yes
+Leonard, Mr. Lionel;male;36.0;3;0;0;0.0;149;Chrome;;Yes
+Lester, Mr. James;male;39.0;3;0;0;241500.0;124;Chrome;;Yes
+Lievens, Mr. Rene Aime;male;24.0;3;0;0;95000.0;190;Chrome;;Yes
+Lindahl, Miss. Agda Thorilda Viktoria;female;25.0;3;0;0;77750.0;183;Chrome;;Yes
+Lindblom, Miss. Augusta Charlotta;female;45.0;3;0;0;77500.0;193;Chrome;;Yes
+Lindell, Mr. Edvard Bengtsson;male;36.0;3;1;0;155500.0;81;Chrome;;Yes
+Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson);female;30.0;3;1;0;155500.0;230;Chrome;;Yes
+Lindqvist, Mr. Eino William;male;20.0;3;1;0;79250.0;121;Chrome;;No
+Linehan, Mr. Michael;male;;3;0;0;78792.0;197;Firefox;;Yes
+Ling, Mr. Lee;male;28.0;3;0;0;564958.0;150;Chrome;;Yes
+Lithman, Mr. Simon;male;;3;0;0;75500.0;56;Chrome;;Yes
+Lobb, Mr. William Arthur;male;30.0;3;1;0;161000.0;236;Chrome;;Yes
+Lobb, Mrs. William Arthur (Cordelia K Stanlick);female;26.0;3;1;0;161000.0;45;Chrome;;Yes
+Lockyer, Mr. Edward;male;;3;0;0;78792.0;221;Chrome;;Yes
+"Lovell, Mr. John Hall (""Henry"")";male;20.5;3;0;0;72500.0;243;Chrome;;Yes
+Lulic, Mr. Nikola;male;27.0;3;0;0;86625.0;163;Chrome;;No
+Lundahl, Mr. Johan Svensson;male;51.0;3;0;0;70542.0;242;Chrome;;Yes
+Lundin, Miss. Olga Elida;female;23.0;3;0;0;78542.0;91;Chrome;;No
+Lundstrom, Mr. Thure Edvin;male;32.0;3;0;0;75792.0;26;Chrome;;No
+Lyntakoff, Mr. Stanko;male;;3;0;0;78958.0;61;Chrome;;Yes
+MacKay, Mr. George William;male;;3;0;0;75500.0;31;Chrome;;Yes
+"Madigan, Miss. Margaret ""Maggie""";female;;3;0;0;77500.0;256;Firefox;;No
+Madsen, Mr. Fridtjof Arne;male;24.0;3;0;0;71417.0;60;Chrome;;No
+Maenpaa, Mr. Matti Alexanteri;male;22.0;3;0;0;71250.0;90;Chrome;;Yes
+Mahon, Miss. Bridget Delia;female;;3;0;0;78792.0;189;Firefox;;Yes
+Mahon, Mr. John;male;;3;0;0;77500.0;123;Firefox;;Yes
+Maisner, Mr. Simon;male;;3;0;0;80500.0;24;Chrome;;Yes
+Makinen, Mr. Kalle Edvard;male;29.0;3;0;0;79250.0;42;Chrome;;Yes
+Mamee, Mr. Hanna;male;;3;0;0;72292.0;102;Internet Explorer;;No
+Mangan, Miss. Mary;female;30.5;3;0;0;77500.0;142;Firefox;;Yes
+Mannion, Miss. Margareth;female;;3;0;0;77375.0;86;Firefox;;No
+Mardirosian, Mr. Sarkis;male;;3;0;0;72292.0;44;Internet Explorer;;Yes
+Markoff, Mr. Marin;male;35.0;3;0;0;78958.0;80;Internet Explorer;;Yes
+Markun, Mr. Johann;male;33.0;3;0;0;78958.0;81;Chrome;;Yes
+Masselmani, Mrs. Fatima;female;;3;0;0;72250.0;43;Internet Explorer;;No
+Matinoff, Mr. Nicola;male;;3;0;0;78958.0;175;Internet Explorer;;Yes
+"McCarthy, Miss. Catherine ""Katie""";female;;3;0;0;77500.0;88;Firefox;;No
+McCormack, Mr. Thomas Joseph;male;;3;0;0;77500.0;63;Firefox;;No
+McCoy, Miss. Agnes;female;;3;2;0;232500.0;234;Firefox;;No
+McCoy, Miss. Alicia;female;;3;2;0;232500.0;10;Firefox;;No
+McCoy, Mr. Bernard;male;;3;2;0;232500.0;69;Firefox;;No
+McDermott, Miss. Brigdet Delia;female;;3;0;0;77875.0;244;Firefox;;No
+McEvoy, Mr. Michael;male;;3;0;0;155000.0;100;Firefox;;Yes
+McGovern, Miss. Mary;female;;3;0;0;78792.0;212;Firefox;;No
+"McGowan, Miss. Anna ""Annie""";female;15.0;3;0;0;80292.0;130;Firefox;;No
+McGowan, Miss. Katherine;female;35.0;3;0;0;77500.0;73;Firefox;;Yes
+McMahon, Mr. Martin;male;;3;0;0;77500.0;107;Firefox;;Yes
+McNamee, Mr. Neal;male;24.0;3;1;0;161000.0;195;Chrome;;Yes
+McNamee, Mrs. Neal (Eileen O'Leary);female;19.0;3;1;0;161000.0;188;Chrome;;Yes
+McNeill, Miss. Bridget;female;;3;0;0;77500.0;209;Firefox;;Yes
+Meanwell, Miss. (Marion Ogden);female;;3;0;0;80500.0;250;Chrome;;Yes
+Meek, Mrs. Thomas (Annie Louise Rowley);female;;3;0;0;80500.0;216;Chrome;;Yes
+Meo, Mr. Alfonzo;male;55.5;3;0;0;80500.0;182;Chrome;;Yes
+Mernagh, Mr. Robert;male;;3;0;0;77500.0;35;Firefox;;Yes
+Midtsjo, Mr. Karl Albert;male;21.0;3;0;0;77750.0;60;Chrome;;No
+Miles, Mr. Frank;male;;3;0;0;80500.0;81;Chrome;;Yes
+Mineff, Mr. Ivan;male;24.0;3;0;0;78958.0;181;Chrome;;Yes
+Minkoff, Mr. Lazar;male;21.0;3;0;0;78958.0;105;Chrome;;Yes
+Mionoff, Mr. Stoytcho;male;28.0;3;0;0;78958.0;184;Chrome;;Yes
+Mitkoff, Mr. Mito;male;;3;0;0;78958.0;28;Chrome;;Yes
+"Mockler, Miss. Helen Mary ""Ellie""";female;;3;0;0;78792.0;160;Firefox;;No
+Moen, Mr. Sigurd Hansen;male;25.0;3;0;0;76500.0;50;Chrome;;Yes
+Moor, Master. Meier;male;6.0;3;0;1;124750.0;14;Chrome;;No
+Moor, Mrs. (Beila);female;27.0;3;0;1;124750.0;188;Chrome;;No
+Moore, Mr. Leonard Charles;male;;3;0;0;80500.0;25;Chrome;;Yes
+Moran, Miss. Bertha;female;;3;1;0;241500.0;158;Firefox;;No
+Moran, Mr. Daniel J;male;;3;1;0;241500.0;1;Firefox;;Yes
+Moran, Mr. James;male;;3;0;0;84583.0;185;Firefox;;Yes
+Morley, Mr. William;male;34.0;3;0;0;80500.0;127;Chrome;;Yes
+Morrow, Mr. Thomas Rowan;male;;3;0;0;77500.0;114;Firefox;;Yes
+Moss, Mr. Albert Johan;male;;3;0;0;77750.0;250;Chrome;;No
+Moubarek, Master. Gerios;male;;3;1;1;152458.0;120;Internet Explorer;;No
+"Moubarek, Master. Halim Gonios (""William George"")";male;;3;1;1;152458.0;188;Internet Explorer;;No
+"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)";female;;3;0;2;152458.0;107;Internet Explorer;;No
+Moussa, Mrs. (Mantoura Boulos);female;;3;0;0;72292.0;55;Internet Explorer;;No
+Moutal, Mr. Rahamin Haim;male;;3;0;0;80500.0;83;Chrome;;Yes
+"Mullens, Miss. Katherine ""Katie""";female;;3;0;0;77333.0;170;Firefox;;No
+Mulvihill, Miss. Bertha E;female;24.0;3;0;0;77500.0;213;Firefox;;No
+Murdlin, Mr. Joseph;male;;3;0;0;80500.0;132;Chrome;;Yes
+"Murphy, Miss. Katherine ""Kate""";female;;3;1;0;155000.0;36;Firefox;;No
+Murphy, Miss. Margaret Jane;female;;3;1;0;155000.0;224;Firefox;;No
+Murphy, Miss. Nora;female;;3;0;0;155000.0;62;Firefox;;No
+Myhrman, Mr. Pehr Fabian Oliver Malkolm;male;18.0;3;0;0;77500.0;248;Chrome;;Yes
+Naidenoff, Mr. Penko;male;22.0;3;0;0;78958.0;74;Chrome;;Yes
+"Najib, Miss. Adele Kiamie ""Jane""";female;15.0;3;0;0;72250.0;33;Internet Explorer;;No
+"Nakid, Miss. Maria (""Mary"")";female;1.0;3;0;2;157417.0;70;Internet Explorer;;No
+Nakid, Mr. Sahid;male;20.0;3;1;1;157417.0;170;Internet Explorer;;No
+"Nakid, Mrs. Said (Waika ""Mary"" Mowad)";female;19.0;3;1;1;157417.0;153;Internet Explorer;;No
+Nancarrow, Mr. William Henry;male;33.0;3;0;0;80500.0;98;Chrome;;Yes
+Nankoff, Mr. Minko;male;;3;0;0;78958.0;241;Chrome;;Yes
+Nasr, Mr. Mustafa;male;;3;0;0;72292.0;110;Internet Explorer;;Yes
+Naughton, Miss. Hannah;female;;3;0;0;77500.0;115;Firefox;;Yes
+Nenkoff, Mr. Christo;male;;3;0;0;78958.0;227;Chrome;;Yes
+Nicola-Yarred, Master. Elias;male;12.0;3;1;0;112417.0;18;Internet Explorer;;No
+Nicola-Yarred, Miss. Jamila;female;14.0;3;1;0;112417.0;81;Internet Explorer;;No
+Nieminen, Miss. Manta Josefina;female;29.0;3;0;0;79250.0;207;Chrome;;Yes
+Niklasson, Mr. Samuel;male;28.0;3;0;0;80500.0;239;Chrome;;Yes
+Nilsson, Miss. Berta Olivia;female;18.0;3;0;0;77750.0;236;Chrome;;No
+Nilsson, Miss. Helmina Josefina;female;26.0;3;0;0;78542.0;206;Chrome;;No
+Nilsson, Mr. August Ferdinand;male;21.0;3;0;0;78542.0;66;Chrome;;Yes
+Nirva, Mr. Iisakki Antino Aijo;male;41.0;3;0;0;71250.0;56;Chrome;Finland Sudbury, ON;Yes
+Niskanen, Mr. Juha;male;39.0;3;0;0;79250.0;64;Chrome;;No
+Nosworthy, Mr. Richard Cater;male;21.0;3;0;0;78000.0;117;Chrome;;Yes
+Novel, Mr. Mansouer;male;28.5;3;0;0;72292.0;136;Internet Explorer;;Yes
+Nysten, Miss. Anna Sofia;female;22.0;3;0;0;77500.0;59;Chrome;;No
+Nysveen, Mr. Johan Hansen;male;61.0;3;0;0;62375.0;65;Chrome;;Yes
+O'Brien, Mr. Thomas;male;;3;1;0;155000.0;237;Firefox;;Yes
+O'Brien, Mr. Timothy;male;;3;0;0;78292.0;255;Firefox;;Yes
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)";female;;3;1;0;155000.0;16;Firefox;;No
+O'Connell, Mr. Patrick D;male;;3;0;0;77333.0;61;Firefox;;Yes
+O'Connor, Mr. Maurice;male;;3;0;0;77500.0;109;Firefox;;Yes
+O'Connor, Mr. Patrick;male;;3;0;0;77500.0;90;Firefox;;Yes
+Odahl, Mr. Nils Martin;male;23.0;3;0;0;92250.0;40;Chrome;;Yes
+O'Donoghue, Ms. Bridget;female;;3;0;0;77500.0;78;Firefox;;Yes
+O'Driscoll, Miss. Bridget;female;;3;0;0;77500.0;120;Firefox;;No
+"O'Dwyer, Miss. Ellen ""Nellie""";female;;3;0;0;78792.0;144;Firefox;;No
+Ohman, Miss. Velin;female;22.0;3;0;0;77750.0;72;Chrome;;No
+O'Keefe, Mr. Patrick;male;;3;0;0;77500.0;128;Firefox;;No
+"O'Leary, Miss. Hanora ""Norah""";female;;3;0;0;78292.0;205;Firefox;;No
+Olsen, Master. Artur Karl;male;9.0;3;0;1;31708.0;81;Chrome;;No
+Olsen, Mr. Henry Margido;male;28.0;3;0;0;225250.0;117;Chrome;;Yes
+Olsen, Mr. Karl Siegwart Andreas;male;42.0;3;0;1;84042.0;17;Chrome;;Yes
+Olsen, Mr. Ole Martin;male;;3;0;0;73125.0;225;Chrome;;Yes
+Olsson, Miss. Elina;female;31.0;3;0;0;78542.0;132;Chrome;;Yes
+Olsson, Mr. Nils Johan Goransson;male;28.0;3;0;0;78542.0;225;Chrome;;Yes
+Olsson, Mr. Oscar Wilhelm;male;32.0;3;0;0;77750.0;76;Chrome;;No
+Olsvigen, Mr. Thor Anderson;male;20.0;3;0;0;92250.0;146;Chrome;Oslo, Norway Cameron, WI;Yes
+Oreskovic, Miss. Jelka;female;23.0;3;0;0;86625.0;37;Chrome;;Yes
+Oreskovic, Miss. Marija;female;20.0;3;0;0;86625.0;175;Chrome;;Yes
+Oreskovic, Mr. Luka;male;20.0;3;0;0;86625.0;239;Chrome;;Yes
+Osen, Mr. Olaf Elon;male;16.0;3;0;0;92167.0;73;Chrome;;Yes
+Osman, Mrs. Mara;female;31.0;3;0;0;86833.0;73;Chrome;;No
+O'Sullivan, Miss. Bridget Mary;female;;3;0;0;76292.0;80;Firefox;;Yes
+Palsson, Master. Gosta Leonard;male;2.0;3;3;1;210750.0;48;Chrome;;Yes
+Palsson, Master. Paul Folke;male;6.0;3;3;1;210750.0;127;Chrome;;Yes
+Palsson, Miss. Stina Viola;female;3.0;3;3;1;210750.0;143;Chrome;;Yes
+Palsson, Miss. Torborg Danira;female;8.0;3;3;1;210750.0;173;Chrome;;Yes
+Palsson, Mrs. Nils (Alma Cornelia Berglund);female;29.0;3;0;4;210750.0;188;Chrome;;Yes
+Panula, Master. Eino Viljami;male;1.0;3;4;1;396875.0;137;Chrome;;Yes
+Panula, Master. Juha Niilo;male;7.0;3;4;1;396875.0;254;Chrome;;Yes
+Panula, Master. Urho Abraham;male;2.0;3;4;1;396875.0;180;Chrome;;Yes
+Panula, Mr. Ernesti Arvid;male;16.0;3;4;1;396875.0;106;Chrome;;Yes
+Panula, Mr. Jaako Arnold;male;14.0;3;4;1;396875.0;109;Chrome;;Yes
+Panula, Mrs. Juha (Maria Emilia Ojala);female;41.0;3;0;5;396875.0;249;Chrome;;Yes
+Pasic, Mr. Jakob;male;21.0;3;0;0;86625.0;63;Chrome;;Yes
+Patchett, Mr. George;male;19.0;3;0;0;145000.0;185;Chrome;;Yes
+Paulner, Mr. Uscher;male;;3;0;0;87125.0;189;Internet Explorer;;Yes
+Pavlovic, Mr. Stefo;male;32.0;3;0;0;78958.0;231;Chrome;;Yes
+Peacock, Master. Alfred Edward;male;0.75;3;1;1;137750.0;147;Chrome;;Yes
+Peacock, Miss. Treasteall;female;3.0;3;1;1;137750.0;201;Chrome;;Yes
+Peacock, Mrs. Benjamin (Edith Nile);female;26.0;3;0;2;137750.0;104;Chrome;;Yes
+Pearce, Mr. Ernest;male;;3;0;0;70000.0;232;Chrome;;Yes
+Pedersen, Mr. Olaf;male;;3;0;0;77750.0;211;Chrome;;Yes
+Peduzzi, Mr. Joseph;male;;3;0;0;80500.0;244;Chrome;;Yes
+Pekoniemi, Mr. Edvard;male;21.0;3;0;0;79250.0;225;Chrome;;Yes
+Peltomaki, Mr. Nikolai Johannes;male;25.0;3;0;0;79250.0;244;Chrome;;Yes
+Perkin, Mr. John Henry;male;22.0;3;0;0;72500.0;247;Chrome;;Yes
+Persson, Mr. Ernst Ulrik;male;25.0;3;1;0;77750.0;69;Chrome;;No
+Peter, Master. Michael J;male;;3;1;1;223583.0;51;Internet Explorer;;No
+Peter, Miss. Anna;female;;3;1;1;223583.0;248;Internet Explorer;;No
+Peter, Mrs. Catherine (Catherine Rizk);female;;3;0;2;223583.0;50;Internet Explorer;;No
+Peters, Miss. Katie;female;;3;0;0;81375.0;105;Firefox;;Yes
+Petersen, Mr. Marius;male;24.0;3;0;0;80500.0;215;Chrome;;Yes
+Petranec, Miss. Matilda;female;28.0;3;0;0;78958.0;54;Chrome;;Yes
+Petroff, Mr. Nedelio;male;19.0;3;0;0;78958.0;169;Chrome;;Yes
+"Petroff, Mr. Pastcho (""Pentcho"")";male;;3;0;0;78958.0;57;Chrome;;Yes
+Petterson, Mr. Johan Emil;male;25.0;3;1;0;77750.0;253;Chrome;;Yes
+Pettersson, Miss. Ellen Natalia;female;18.0;3;0;0;77750.0;214;Chrome;;Yes
+Pickard, Mr. Berk (Berk Trembisky);male;32.0;3;0;0;80500.0;41;Chrome;;No
+Plotcharsky, Mr. Vasil;male;;3;0;0;78958.0;68;Chrome;;Yes
+Pokrnic, Mr. Mate;male;17.0;3;0;0;86625.0;100;Chrome;;Yes
+Pokrnic, Mr. Tome;male;24.0;3;0;0;86625.0;18;Chrome;;Yes
+Radeff, Mr. Alexander;male;;3;0;0;78958.0;146;Chrome;;Yes
+Rasmussen, Mrs. (Lena Jacobsen Solvang);female;;3;0;0;81125.0;212;Chrome;;Yes
+Razi, Mr. Raihed;male;;3;0;0;72292.0;111;Internet Explorer;;Yes
+Reed, Mr. James George;male;;3;0;0;72500.0;100;Chrome;;Yes
+Rekic, Mr. Tido;male;38.0;3;0;0;78958.0;126;Chrome;;Yes
+Reynolds, Mr. Harold J;male;21.0;3;0;0;80500.0;72;Chrome;;Yes
+Rice, Master. Albert;male;10.0;3;4;1;291250.0;100;Firefox;;Yes
+Rice, Master. Arthur;male;4.0;3;4;1;291250.0;183;Firefox;;Yes
+Rice, Master. Eric;male;7.0;3;4;1;291250.0;206;Firefox;;Yes
+Rice, Master. Eugene;male;2.0;3;4;1;291250.0;178;Firefox;;Yes
+Rice, Master. George Hugh;male;8.0;3;4;1;291250.0;14;Firefox;;Yes
+Rice, Mrs. William (Margaret Norton);female;39.0;3;0;5;291250.0;44;Firefox;;Yes
+"Riihivouri, Miss. Susanna Juhantytar ""Sanni""";female;22.0;3;0;0;396875.0;57;Chrome;;Yes
+Rintamaki, Mr. Matti;male;35.0;3;0;0;71250.0;40;Chrome;;Yes
+"Riordan, Miss. Johanna ""Hannah""";female;;3;0;0;77208.0;175;Firefox;;No
+Risien, Mr. Samuel Beard;male;;3;0;0;145000.0;10;Chrome;;Yes
+Risien, Mrs. Samuel (Emma);female;;3;0;0;145000.0;158;Chrome;;Yes
+Robins, Mr. Alexander A;male;50.0;3;1;0;145000.0;239;Chrome;;Yes
+Robins, Mrs. Alexander A (Grace Charity Laury);female;47.0;3;1;0;145000.0;71;Chrome;;Yes
+Rogers, Mr. William John;male;;3;0;0;80500.0;22;Chrome;;Yes
+Rommetvedt, Mr. Knud Paust;male;;3;0;0;77750.0;215;Chrome;;Yes
+Rosblom, Miss. Salli Helena;female;2.0;3;1;1;202125.0;214;Chrome;;Yes
+Rosblom, Mr. Viktor Richard;male;18.0;3;1;1;202125.0;73;Chrome;;Yes
+Rosblom, Mrs. Viktor (Helena Wilhelmina);female;41.0;3;0;2;202125.0;32;Chrome;;Yes
+Roth, Miss. Sarah A;female;;3;0;0;80500.0;66;Chrome;;No
+Rouse, Mr. Richard Henry;male;50.0;3;0;0;80500.0;78;Chrome;;Yes
+Rush, Mr. Alfred George John;male;16.0;3;0;0;80500.0;127;Chrome;;Yes
+Ryan, Mr. Edward;male;;3;0;0;77500.0;250;Firefox;;No
+Ryan, Mr. Patrick;male;;3;0;0;241500.0;162;Firefox;;Yes
+Saad, Mr. Amin;male;;3;0;0;72292.0;34;Internet Explorer;;Yes
+Saad, Mr. Khalil;male;25.0;3;0;0;72250.0;170;Internet Explorer;;Yes
+Saade, Mr. Jean Nassr;male;;3;0;0;72250.0;9;Internet Explorer;;Yes
+Sadlier, Mr. Matthew;male;;3;0;0;77292.0;244;Firefox;;Yes
+Sadowitz, Mr. Harry;male;;3;0;0;75750.0;202;Chrome;;Yes
+Saether, Mr. Simon Sivertsen;male;38.5;3;0;0;72500.0;102;Chrome;;Yes
+Sage, Master. Thomas Henry;male;;3;8;2;695500.0;127;Chrome;;Yes
+Sage, Master. William Henry;male;14.5;3;8;2;695500.0;236;Chrome;;Yes
+Sage, Miss. Ada;female;;3;8;2;695500.0;43;Chrome;;Yes
+Sage, Miss. Constance Gladys;female;;3;8;2;695500.0;255;Chrome;;Yes
+"Sage, Miss. Dorothy Edith ""Dolly""";female;;3;8;2;695500.0;10;Chrome;;Yes
+Sage, Miss. Stella Anna;female;;3;8;2;695500.0;163;Chrome;;Yes
+Sage, Mr. Douglas Bullen;male;;3;8;2;695500.0;206;Chrome;;Yes
+Sage, Mr. Frederick;male;;3;8;2;695500.0;181;Chrome;;Yes
+Sage, Mr. George John Jr;male;;3;8;2;695500.0;142;Chrome;;Yes
+Sage, Mr. John George;male;;3;1;9;695500.0;222;Chrome;;Yes
+Sage, Mrs. John (Annie Bullen);female;;3;1;9;695500.0;160;Chrome;;Yes
+Salander, Mr. Karl Johan;male;24.0;3;0;0;93250.0;222;Chrome;;Yes
+Salkjelsvik, Miss. Anna Kristine;female;21.0;3;0;0;76500.0;1;Chrome;;No
+Salonen, Mr. Johan Werner;male;39.0;3;0;0;79250.0;109;Chrome;;Yes
+Samaan, Mr. Elias;male;;3;2;0;216792.0;191;Internet Explorer;;Yes
+Samaan, Mr. Hanna;male;;3;2;0;216792.0;66;Internet Explorer;;Yes
+Samaan, Mr. Youssef;male;;3;2;0;216792.0;227;Internet Explorer;;Yes
+Sandstrom, Miss. Beatrice Irene;female;1.0;3;1;1;167000.0;174;Chrome;;No
+Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson);female;24.0;3;0;2;167000.0;256;Chrome;;No
+Sandstrom, Miss. Marguerite Rut;female;4.0;3;1;1;167000.0;184;Chrome;;No
+Sap, Mr. Julius;male;25.0;3;0;0;95000.0;104;Chrome;;No
+Saundercock, Mr. William Henry;male;20.0;3;0;0;80500.0;59;Chrome;;Yes
+Sawyer, Mr. Frederick Charles;male;24.5;3;0;0;80500.0;213;Chrome;;Yes
+Scanlan, Mr. James;male;;3;0;0;77250.0;52;Firefox;;Yes
+Sdycoff, Mr. Todor;male;;3;0;0;78958.0;24;Chrome;;Yes
+Shaughnessy, Mr. Patrick;male;;3;0;0;77500.0;44;Firefox;;Yes
+Sheerlinck, Mr. Jan Baptist;male;29.0;3;0;0;95000.0;213;Chrome;;No
+Shellard, Mr. Frederick William;male;;3;0;0;151000.0;97;Chrome;;Yes
+Shine, Miss. Ellen Natalia;female;;3;0;0;77792.0;37;Firefox;;No
+Shorney, Mr. Charles Joseph;male;;3;0;0;80500.0;157;Chrome;;Yes
+Simmons, Mr. John;male;;3;0;0;80500.0;130;Chrome;;Yes
+Sirayanian, Mr. Orsen;male;22.0;3;0;0;72292.0;151;Internet Explorer;;Yes
+Sirota, Mr. Maurice;male;;3;0;0;80500.0;194;Chrome;;Yes
+Sivic, Mr. Husein;male;40.0;3;0;0;78958.0;82;Chrome;;Yes
+Sivola, Mr. Antti Wilhelm;male;21.0;3;0;0;79250.0;66;Chrome;;Yes
+Sjoblom, Miss. Anna Sofia;female;18.0;3;0;0;74958.0;147;Chrome;;No
+Skoog, Master. Harald;male;4.0;3;3;2;279000.0;133;Chrome;;Yes
+Skoog, Master. Karl Thorsten;male;10.0;3;3;2;279000.0;196;Chrome;;Yes
+Skoog, Miss. Mabel;female;9.0;3;3;2;279000.0;235;Chrome;;Yes
+Skoog, Miss. Margit Elizabeth;female;2.0;3;3;2;279000.0;104;Chrome;;Yes
+Skoog, Mr. Wilhelm;male;40.0;3;1;4;279000.0;183;Chrome;;Yes
+Skoog, Mrs. William (Anna Bernhardina Karlsson);female;45.0;3;1;4;279000.0;40;Chrome;;Yes
+Slabenoff, Mr. Petco;male;;3;0;0;78958.0;36;Chrome;;Yes
+Slocovski, Mr. Selman Francis;male;;3;0;0;80500.0;256;Chrome;;Yes
+Smiljanic, Mr. Mile;male;;3;0;0;86625.0;143;Chrome;;Yes
+Smith, Mr. Thomas;male;;3;0;0;77500.0;92;Firefox;;Yes
+Smyth, Miss. Julia;female;;3;0;0;77333.0;17;Firefox;;No
+Soholt, Mr. Peter Andreas Lauritz Andersen;male;19.0;3;0;0;76500.0;38;Chrome;;Yes
+Somerton, Mr. Francis William;male;30.0;3;0;0;80500.0;254;Chrome;;Yes
+Spector, Mr. Woolf;male;;3;0;0;80500.0;234;Chrome;;Yes
+Spinner, Mr. Henry John;male;32.0;3;0;0;80500.0;180;Chrome;;Yes
+Staneff, Mr. Ivan;male;;3;0;0;78958.0;102;Chrome;;Yes
+Stankovic, Mr. Ivan;male;33.0;3;0;0;86625.0;94;Internet Explorer;;Yes
+Stanley, Miss. Amy Zillah Elsie;female;23.0;3;0;0;75500.0;74;Chrome;;No
+Stanley, Mr. Edward Roland;male;21.0;3;0;0;80500.0;87;Chrome;;Yes
+Storey, Mr. Thomas;male;60.5;3;0;0;;153;Chrome;;Yes
+Stoytcheff, Mr. Ilia;male;19.0;3;0;0;7.8958;241;Chrome;;Yes
+Strandberg, Miss. Ida Sofia;female;22.0;3;0;0;9.8375;11;Chrome;;Yes
+Stranden, Mr. Juho;male;31.0;3;0;0;7.925;85;Chrome;;No
+Strilic, Mr. Ivan;male;27.0;3;0;0;8.6625;14;Chrome;;Yes
+Strom, Miss. Telma Matilda;female;2.0;3;0;1;10.4625;82;Chrome;;Yes
+Strom, Mrs. Wilhelm (Elna Matilda Persson);female;29.0;3;1;1;10.4625;70;Chrome;;Yes
+Sunderland, Mr. Victor Francis;male;16.0;3;0;0;8.05;127;Chrome;;No
+Sundman, Mr. Johan Julian;male;44.0;3;0;0;7.925;242;Chrome;;No
+Sutehall, Mr. Henry Jr;male;25.0;3;0;0;7.05;137;Chrome;;Yes
+Svensson, Mr. Johan;male;74.0;3;0;0;7.775;183;Chrome;;Yes
+Svensson, Mr. Johan Cervin;male;14.0;3;0;0;9.225;73;Chrome;;No
+Svensson, Mr. Olof;male;24.0;3;0;0;7.7958;183;Chrome;;Yes
+Tenglin, Mr. Gunnar Isidor;male;25.0;3;0;0;7.7958;140;Chrome;;No
+Theobald, Mr. Thomas Leonard;male;34.0;3;0;0;8.05;196;Chrome;;Yes
+Thomas, Master. Assad Alexander;male;0.4167;3;0;1;8.5167;78;Internet Explorer;;No
+Thomas, Mr. Charles P;male;;3;1;0;6.4375;81;Internet Explorer;;Yes
+Thomas, Mr. John;male;;3;0;0;6.4375;222;Internet Explorer;;Yes
+Thomas, Mr. Tannous;male;;3;0;0;7.225;201;Internet Explorer;;Yes
+"Thomas, Mrs. Alexander (Thamine ""Thelma"")";female;16.0;3;1;1;8.5167;100;Internet Explorer;;No
+Thomson, Mr. Alexander Morrison;male;;3;0;0;8.05;36;Chrome;;Yes
+Thorneycroft, Mr. Percival;male;;3;1;0;16.1;255;Chrome;;Yes
+Thorneycroft, Mrs. Percival (Florence Kate White);female;;3;1;0;16.1;43;Chrome;;No
+Tikkanen, Mr. Juho;male;32.0;3;0;0;7.925;96;Chrome;;Yes
+Tobin, Mr. Roger;male;;3;0;0;7.75;236;Firefox;;Yes
+Todoroff, Mr. Lalio;male;;3;0;0;7.8958;12;Chrome;;Yes
+Tomlin, Mr. Ernest Portage;male;30.5;3;0;0;8.05;162;Chrome;;Yes
+Torber, Mr. Ernst William;male;44.0;3;0;0;8.05;134;Chrome;;Yes
+Torfa, Mr. Assad;male;;3;0;0;7.2292;83;Internet Explorer;;Yes
+Tornquist, Mr. William Henry;male;25.0;3;0;0;0.0;70;Chrome;;No
+Toufik, Mr. Nakli;male;;3;0;0;7.2292;254;Internet Explorer;;Yes
+Touma, Master. Georges Youssef;male;7.0;3;1;1;15.2458;95;Internet Explorer;;No
+Touma, Miss. Maria Youssef;female;9.0;3;1;1;15.2458;141;Internet Explorer;;No
+Touma, Mrs. Darwis (Hanne Youssef Razi);female;29.0;3;0;2;15.2458;60;Internet Explorer;;No
+Turcin, Mr. Stjepan;male;36.0;3;0;0;7.8958;245;Chrome;;Yes
+Turja, Miss. Anna Sofia;female;18.0;3;0;0;9.8417;137;Chrome;;No
+Turkula, Mrs. (Hedwig);female;63.0;3;0;0;9.5875;79;Chrome;;No
+van Billiard, Master. James William;male;;3;1;1;14.5;51;Chrome;;Yes
+van Billiard, Master. Walter John;male;11.5;3;1;1;14.5;209;Chrome;;Yes
+van Billiard, Mr. Austin Blyler;male;40.5;3;0;2;14.5;231;Chrome;;Yes
+Van Impe, Miss. Catharina;female;10.0;3;0;2;24.15;12;Chrome;;Yes
+Van Impe, Mr. Jean Baptiste;male;36.0;3;1;1;24.15;143;Chrome;;Yes
+Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert);female;30.0;3;1;1;24.15;41;Chrome;;Yes
+van Melkebeke, Mr. Philemon;male;;3;0;0;9.5;155;Chrome;;Yes
+Vande Velde, Mr. Johannes Joseph;male;33.0;3;0;0;9.5;115;Chrome;;Yes
+Vande Walle, Mr. Nestor Cyriel;male;28.0;3;0;0;9.5;46;Chrome;;Yes
+Vanden Steen, Mr. Leo Peter;male;28.0;3;0;0;9.5;221;Chrome;;Yes
+Vander Cruyssen, Mr. Victor;male;47.0;3;0;0;9.0;2;Chrome;;Yes
+Vander Planke, Miss. Augusta Maria;female;18.0;3;2;0;18.0;23;Chrome;;Yes
+Vander Planke, Mr. Julius;male;31.0;3;3;0;18.0;54;Chrome;;Yes
+Vander Planke, Mr. Leo Edmondus;male;16.0;3;2;0;18.0;38;Chrome;;Yes
+Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele);female;31.0;3;1;0;18.0;90;Chrome;;Yes
+Vartanian, Mr. David;male;22.0;3;0;0;7.225;24;Internet Explorer;;No
+Vendel, Mr. Olof Edvin;male;20.0;3;0;0;7.8542;225;Chrome;;Yes
+Vestrom, Miss. Hulda Amanda Adolfina;female;14.0;3;0;0;7.8542;39;Chrome;;Yes
+Vovk, Mr. Janko;male;22.0;3;0;0;7.8958;204;Chrome;;Yes
+Waelens, Mr. Achille;male;22.0;3;0;0;9.0;100;Chrome;Antwerp, Belgium / Stanton, OH;Yes
+Ware, Mr. Frederick;male;;3;0;0;8.05;134;Chrome;;Yes
+Warren, Mr. Charles William;male;;3;0;0;7.55;39;Chrome;;Yes
+Webber, Mr. James;male;;3;0;0;8.05;201;Chrome;;Yes
+Wenzel, Mr. Linhart;male;32.5;3;0;0;9.5;186;Chrome;;Yes
+Whabee, Mrs. George Joseph (Shawneene Abi-Saab);female;38.0;3;0;0;7.2292;16;Internet Explorer;;No
+Widegren, Mr. Carl/Charles Peter;male;51.0;3;0;0;7.75;26;Chrome;;Yes
+Wiklund, Mr. Jakob Alfred;male;18.0;3;1;0;6.4958;53;Chrome;;Yes
+Wiklund, Mr. Karl Johan;male;21.0;3;1;0;6.4958;49;Chrome;;Yes
+Wilkes, Mrs. James (Ellen Needs);female;47.0;3;1;0;7.0;108;Chrome;;No
+"Willer, Mr. Aaron (""Abi Weller"")";male;;3;0;0;8.7125;21;Chrome;;Yes
+Willey, Mr. Edward;male;;3;0;0;7.55;241;Chrome;;Yes
+"Williams, Mr. Howard Hugh ""Harry""";male;;3;0;0;8.05;52;Chrome;;Yes
+Williams, Mr. Leslie;male;28.5;3;0;0;16.1;64;Chrome;;Yes
+Windelov, Mr. Einar;male;21.0;3;0;0;7.25;197;Chrome;;Yes
+Wirz, Mr. Albert;male;27.0;3;0;0;8.6625;81;Chrome;;Yes
+Wiseman, Mr. Phillippe;male;;3;0;0;7.25;107;Chrome;;Yes
+Wittevrongel, Mr. Camille;male;36.0;3;0;0;9.5;80;Chrome;;Yes
+Yasbeck, Mr. Antoni;male;27.0;3;1;0;14.4542;114;Internet Explorer;;Yes
+Yasbeck, Mrs. Antoni (Selini Alexander);female;15.0;3;1;0;14.4542;245;Internet Explorer;;No
+Youseff, Mr. Gerious;male;45.5;3;0;0;7.225;233;Internet Explorer;;Yes
+Yousif, Mr. Wazli;male;;3;0;0;7.225;134;Internet Explorer;;Yes
+Yousseff, Mr. Gerious;male;;3;0;0;14.4583;211;Internet Explorer;;Yes
+Zabour, Miss. Hileni;female;14.5;3;1;0;14.4542;240;Internet Explorer;;Yes
+Zabour, Miss. Thamine;female;;3;1;0;14.4542;185;Internet Explorer;;Yes
+Zakarian, Mr. Mapriededer;male;26.5;3;0;0;7.225;86;Internet Explorer;;Yes
+Zakarian, Mr. Ortin;male;27.0;3;0;0;7.225;187;Internet Explorer;;Yes
+Zimmerman, Mr. Leo;male;29.0;3;0;0;7.875;237;Chrome;;Yes
